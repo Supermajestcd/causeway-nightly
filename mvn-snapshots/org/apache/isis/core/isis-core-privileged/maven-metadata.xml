@@ -3,7 +3,7 @@
   <groupId>org.apache.isis.core</groupId>
   <artifactId>isis-core-privileged</artifactId>
   <versioning>
-    <release>2.0.0-M9.20221215-0243-b3dee835</release>
+    <release>2.0.0-M9.20221216-1725-a27ea37b</release>
     <versions>
       <version>2.0.0-M7.20220917-0401-f2717d2b</version>
       <version>2.0.0-M7.20220918-0415-fda7a766</version>
@@ -77,7 +77,8 @@
       <version>2.0.0-M9.20221213-0247-6c1ac7e7</version>
       <version>2.0.0-M9.20221214-0245-3947e802</version>
       <version>2.0.0-M9.20221215-0243-b3dee835</version>
+      <version>2.0.0-M9.20221216-1725-a27ea37b</version>
     </versions>
-    <lastUpdated>20221215030139</lastUpdated>
+    <lastUpdated>20221216174256</lastUpdated>
   </versioning>
 </metadata>
