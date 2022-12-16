@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="2606px" preserveAspectRatio="none" style="width:838px;height:2606px;background:#FFFFFF;" version="1.1" viewBox="0 0 838 2606" width="838px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="250" x="287" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="240" x="292" y="22.9951">Regression Tests - Containers</text><!--MD5=[58dc98293169df23675865eb87088b15]
+cluster Regression Tests\n[Software System]--><g id="cluster_Regression Tests\n[Software System]"><path d="M8.5,43.2969 L156.5,43.2969 A3.75,3.75 0 0 1 159,45.7969 L166,81.8906 L828.5,81.8906 A2.5,2.5 0 0 1 831,84.3906 L831,2571.7969 A2.5,2.5 0 0 1 828.5,2574.2969 L8.5,2574.2969 A2.5,2.5 0 0 1 6,2571.7969 L6,45.7969 A2.5,2.5 0 0 1 8.5,43.2969 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="166" y1="81.8906" y2="81.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="138" x="14.5" y="58.292">Regression Tests</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="147" x="10" y="74.5889">[Software System]</text></g><!--MD5=[773709cb2207c097691e7e7d3d2cc787]
+entity 2--><g id="elem_2"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="22" y="1282.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="32" y="1307.6484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="44" y="1326.2734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="138" x="52.5" y="1339.3291">[Container: packaging: pom]</text></g><!--MD5=[df1cfc51a8f3e60039521c9170723b8d]
+entity 8--><g id="elem_8"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="2470.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="2495.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="2513.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="68" x="368" y="2532.3984">(stable)</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="2545.4541">[Container: packaging: jar]</text></g><!--MD5=[d25218acdea247ba6571a34297258ee9]
+entity 9--><g id="elem_9"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="2329.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="2354.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="2372.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="81" x="358.5" y="2391.3984">(stable) -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="126" x="339" y="2410.0234">Bootstrapping</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="2423.0791">[Container: packaging: jar]</text></g><!--MD5=[5721696d2af8d327c8f4e7ea88061d17]
+entity 3--><g id="elem_3"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="232" x="286" y="2188.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="2213.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="2231.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="81" x="358.5" y="2250.3984">(stable) -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="212" x="296" y="2269.0234">Cmd/Exec/Audit/Session</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="138" x="333" y="2282.0791">[Container: packaging: pom]</text></g><!--MD5=[ca8cb0432c9090f8973c99138b4c3ca0]
+entity 4--><g id="elem_4"><rect fill="#438DD5" height="124.7656" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="232" x="583" y="2338.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="609.5" y="2363.6484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="618.5" y="2382.2734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="81" x="655.5" y="2400.8984">(stable) -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="212" x="593" y="2419.5234">Cmd/Exec/Audit/Session</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="81" x="658.5" y="2438.1484">- Generic</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="635" y="2451.2041">[Container: packaging: jar]</text></g><!--MD5=[fad6a9c1e4f80769a7fea8e2093188d9]
+entity 5--><g id="elem_5"><rect fill="#438DD5" height="124.7656" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="232" x="583" y="2178.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="609.5" y="2203.6484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="618.5" y="2222.2734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="81" x="655.5" y="2240.8984">(stable) -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="212" x="593" y="2259.5234">Cmd/Exec/Audit/Session</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="46" x="676" y="2278.1484">- JDO</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="635" y="2291.2041">[Container: packaging: jar]</text></g><!--MD5=[a92bd7649e35c8a5fd4b3e9f57d24e4a]
+entity 6--><g id="elem_6"><rect fill="#438DD5" height="124.7656" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="232" x="583" y="2018.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="609.5" y="2043.6484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="618.5" y="2062.2734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="81" x="655.5" y="2080.8984">(stable) -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="212" x="593" y="2099.5234">Cmd/Exec/Audit/Session</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="43" x="677.5" y="2118.1484">- JPA</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="635" y="2131.2041">[Container: packaging: jar]</text></g><!--MD5=[832467b18690d1dd1b9afbdc6cb3d7bf]
+entity 10--><g id="elem_10"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="2065.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="2090.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="2108.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="143" x="330.5" y="2127.3984">(stable) - Config</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="2140.4541">[Container: packaging: jar]</text></g><!--MD5=[cbb381f34bde73e199f6c8e56df9562c]
+entity 7--><g id="elem_7"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="1924.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1949.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1967.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="129" x="334.5" y="1986.3984">(stable) - Core</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="144" x="330" y="2005.0234">WrapperFactory</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="2018.0791">[Container: packaging: jar]</text></g><!--MD5=[e25884bd7fe840786d881277a14c5a0e]
+entity 11--><g id="elem_11"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="1801.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1826.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1844.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="177" x="313.5" y="1863.3984">(stable) - Cucumber</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="1876.4541">[Container: packaging: jar]</text></g><!--MD5=[2e47fe9ff0124b653d7be087bd1c1ac2]
+entity 12--><g id="elem_12"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="1660.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1685.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1703.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="152" x="323" y="1722.3984">(stable) - Domain</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="53" x="375.5" y="1741.0234">Model</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="1754.0791">[Container: packaging: jar]</text></g><!--MD5=[2cd44814ab46f5e6a99045c6c67d7a1c]
+entity 13--><g id="elem_13"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="1519.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1544.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1562.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="137" x="330.5" y="1581.3984">(stable) - Event</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="74" x="365" y="1600.0234">Handling</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="1613.0791">[Container: packaging: jar]</text></g><!--MD5=[b289b39ced8dc6d267141842d8cb9775]
+entity 14--><g id="elem_14"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="1396.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1421.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1439.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="154" x="325" y="1458.3984">(stable) - Factory</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="1471.4541">[Container: packaging: jar]</text></g><!--MD5=[50c48f50f23c4505b4e1bf8eb0388b7a]
+entity 15--><g id="elem_15"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="1273.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1298.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1316.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="159" x="322.5" y="1335.3984">(stable) - Interact</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="1348.4541">[Container: packaging: jar]</text></g><!--MD5=[719f049e567def7483c03ccc3af4ed75]
+entity 16--><g id="elem_16"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="1150.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1175.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1193.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="157" x="323.5" y="1212.3984">(stable) - Layouts</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="1225.4541">[Container: packaging: jar]</text></g><!--MD5=[dc00b6f0bfcb3e33cce0c0c30000e56b]
+entity 17--><g id="elem_17"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="219" x="292.5" y="1009.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="1034.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="1052.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="193" x="302.5" y="1071.3984">(stable) - Persistence</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="47" x="378.5" y="1090.0234">(JDO)</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="1103.0791">[Container: packaging: jar]</text></g><!--MD5=[7c356ee5fd76ea688127ca96320d15b9]
+entity 18--><g id="elem_18"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="219" x="292.5" y="868.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="893.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="911.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="193" x="302.5" y="930.3984">(stable) - Persistence</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="44" x="380" y="949.0234">(JPA)</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="962.0791">[Container: packaging: jar]</text></g><!--MD5=[e65828e44c04f22b25befc3882e9626a]
+entity 19--><g id="elem_19"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="202" x="301" y="727.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="752.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="770.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="176" x="311" y="789.3984">(stable) - Publishing</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="44" x="380" y="808.0234">(JPA)</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="821.0791">[Container: packaging: jar]</text></g><!--MD5=[57f681a101af5b36c45b4d48786b1175]
+entity 20--><g id="elem_20"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="604.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="629.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="647.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="128" x="338" y="666.3984">(stable) - Rest</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="679.4541">[Container: packaging: jar]</text></g><!--MD5=[fd8726c1533af164f5322e0f7898e501]
+entity 21--><g id="elem_21"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="214" x="295" y="481.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="506.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="524.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="194" x="305" y="543.3984">(stable) - Value Types</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="556.4541">[Container: packaging: jar]</text></g><!--MD5=[f23e27573c7a8d7e934deb9fe4d73a5f]
+entity 22--><g id="elem_22"><rect fill="#438DD5" height="106.1406" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="302.5" y="340.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="365.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="383.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="158" x="320" y="402.3984">(stable) - Viewers</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="77" x="363.5" y="421.0234">Common</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="434.0791">[Container: packaging: jar]</text></g><!--MD5=[8fdd73d54a3a4d53cbcefcd0beb9d8d1]
+entity 23--><g id="elem_23"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="217" x="293.5" y="217.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="242.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="260.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="197" x="303.5" y="279.3984">(stable) - Viewers JDO</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="292.4541">[Container: packaging: jar]</text></g><!--MD5=[97c8e0130c2d715783067debb066512a]
+entity 24--><g id="elem_24"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="214" x="295" y="94.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="312.5" y="119.1484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="321.5" y="137.7734">Regression Tests</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="194" x="305" y="156.3984">(stable) - Viewers JPA</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="338" y="169.4541">[Container: packaging: jar]</text></g><!--MD5=[b1f22f0c97e7f2b556a5a2d67c42ac53]
+link 3 to 4--><g id="link_3_4"><path d="M500.82,2294.3569 C525.63,2307.8069 552.57,2322.4169 578.33,2336.3869 " fill="none" id="3-to-4" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="582.79,2338.8069,576.7848,2331.0006,578.3945,2336.4236,572.9716,2338.0334,582.79,2338.8069" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="549" y="2318.5791"> </text></g><!--MD5=[c24e363b82b23e873c94edca50a9731f]
+link 3 to 5--><g id="link_3_5"><path d="M518.32,2241.2969 C537.67,2241.2969 557.8,2241.2969 577.28,2241.2969 " fill="none" id="3-to-5" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="582.76,2241.2969,573.76,2237.2969,577.76,2241.2969,573.76,2245.2969,582.76,2241.2969" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="549" y="2238.5791"> </text></g><!--MD5=[b2ac855d378984b70ee6a5bd13272cbd]
+link 3 to 6--><g id="link_3_6"><path d="M500.82,2188.2369 C525.63,2174.7869 552.57,2160.1769 578.33,2146.2069 " fill="none" id="3-to-6" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="582.79,2143.7869,572.9716,2144.5604,578.3945,2146.1701,576.7848,2151.5931,582.79,2143.7869" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="549" y="2158.5791"> </text></g><!--MD5=[0ad92ee86b71fc92e123e5500ea78341]
+link 2 to 8--><g id="link_2_8"><path d="M126.48,1351.9769 C140.93,1476.4369 192.78,1912.1069 251,2269.2969 C264.32,2351.0269 237.04,2385.5169 286,2452.2969 C289.85,2457.5469 294.28,2462.3969 299.11,2466.8669 " fill="none" id="2-to-8" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.88,2470.2169,298.7938,2461.2557,299.1367,2466.9022,293.4902,2467.2451,302.88,2470.2169" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="2266.5791"> </text></g><!--MD5=[676073e7019c75b59fc2b05612aba49c]
+link 2 to 9--><g id="link_2_9"><path d="M124.28,1351.9269 C132.92,1508.5269 174.66,2149.8769 286,2311.2969 C289.72,2316.6869 293.99,2321.7369 298.65,2326.4769 " fill="none" id="2-to-9" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.29,2330.0269,298.6431,2320.8781,298.7118,2326.5345,293.0554,2326.6032,302.29,2330.0269" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="2245.5791"> </text></g><!--MD5=[eeb69082328d10abd3b14fdeede0d8a3]
+link 2 to 3--><g id="link_2_3"><path d="M125.44,1352.1069 C138.05,1494.6569 191.22,2032.8069 286,2170.2969 C289.49,2175.3569 293.46,2180.1169 297.79,2184.5969 " fill="none" id="2-to-3" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="301.5,2188.2969,297.9459,2179.1116,297.9573,2184.7685,292.3005,2184.7799,301.5,2188.2969" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="2105.5791"> </text></g><!--MD5=[ecc6855e18f9a45a4c7eaf523375ba95]
+link 2 to 10--><g id="link_2_10"><path d="M128.57,1352.2269 C152.71,1489.8969 242.77,1990.2269 286,2047.2969 C289.98,2052.5569 294.55,2057.4169 299.51,2061.9069 " fill="none" id="2-to-10" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="303.37,2065.2769,299.1949,2056.3567,299.5939,2061.9995,293.9511,2062.3985,303.37,2065.2769" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1958.5791"> </text></g><!--MD5=[f03a35d0a29bcf5b4caf40b6b6655269]
+link 2 to 7--><g id="link_2_7"><path d="M133.49,1351.9069 C157.37,1427.6669 215.12,1614.0769 256,1772.2969 C271.27,1831.3869 250.59,1856.5869 286,1906.2969 C289.74,1911.5469 294.01,1916.4969 298.64,1921.1369 " fill="none" id="2-to-7" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.25,1924.6269,298.5661,1915.4929,298.6577,1921.1491,293.0016,1921.2406,302.25,1924.6269" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1757.5791"> </text></g><!--MD5=[350ab8b289b532334afad443a8f96638]
+link 2 to 11--><g id="link_2_11"><path d="M139.54,1352.2269 C167.38,1410.4969 222.82,1531.7369 256,1639.2969 C275.27,1701.7669 246.91,1730.8969 286,1783.2969 C289.89,1788.5169 294.35,1793.3369 299.21,1797.7969 " fill="none" id="2-to-11" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="303,1801.1369,298.8946,1792.1845,299.2496,1797.8302,293.6039,1798.1852,303,1801.1369" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1628.5791"> </text></g><!--MD5=[f7b23945b808440529d54eae70ccd1cc]
+link 2 to 12--><g id="link_2_12"><path d="M146.12,1352.0769 C175.06,1395.8469 224.15,1474.0869 256,1546.2969 C274.04,1587.1969 258.58,1606.9869 286,1642.2969 C289.96,1647.3869 294.39,1652.2069 299.15,1656.7569 " fill="none" id="2-to-12" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.85,1660.1769,298.9645,1651.1269,299.1815,1656.7796,293.5288,1656.9965,302.85,1660.1769" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1537.5791"> </text></g><!--MD5=[78aff816aa8a90b4ab29aa1634b5681f]
+link 2 to 13--><g id="link_2_13"><path d="M151.33,1352.0969 C189.97,1398.3269 257.04,1476.9669 286,1501.2969 C292.1,1506.4169 298.6,1511.4369 305.3,1516.2769 " fill="none" id="2-to-13" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="309.49,1519.2669,304.4998,1510.7758,305.4242,1516.3566,299.8434,1517.2811,309.49,1519.2669" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1466.5791"> </text></g><!--MD5=[3c15ce39e8e568d8007db2b3de990d68]
+link 2 to 14--><g id="link_2_14"><path d="M200.82,1351.8869 C230.87,1365.1569 265.65,1380.5169 297.69,1394.6669 " fill="none" id="2-to-14" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.4,1396.7469,295.7769,1389.4575,297.8245,1394.7308,292.5512,1396.7783,302.4,1396.7469" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1372.5791"> </text></g><!--MD5=[62213bd213e9eab9cca34893f70ee040]
+link 2 to 15--><g id="link_2_15"><path d="M221.08,1317.2969 C245.62,1317.2969 272.01,1317.2969 296.82,1317.2969 " fill="none" id="2-to-15" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.08,1317.2969,293.08,1313.2969,297.08,1317.2969,293.08,1321.2969,302.08,1317.2969" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1314.5791"> </text></g><!--MD5=[134e48eb41660a0c6f1dbc424bc78086]
+link 2 to 16--><g id="link_2_16"><path d="M200.82,1282.7069 C230.87,1269.4369 265.65,1254.0769 297.69,1239.9269 " fill="none" id="2-to-16" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.4,1237.8469,292.5512,1237.8154,297.8245,1239.863,295.7769,1245.1363,302.4,1237.8469" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1257.5791"> </text></g><!--MD5=[c207f4a95eb18802581a1fab8c8bdf35]
+link 2 to 17--><g id="link_2_17"><path d="M147.87,1282.7769 C177.94,1243.3569 230.94,1178.3769 286,1132.2969 C291.68,1127.5469 297.71,1122.8969 303.93,1118.3969 " fill="none" id="2-to-17" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="308.26,1115.3069,298.6134,1117.2927,304.1942,1118.2171,303.2698,1123.7979,308.26,1115.3069" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1161.5791"> </text></g><!--MD5=[ad9d30a6482909a64c170f771130d934]
+link 2 to 18--><g id="link_2_18"><path d="M132.76,1282.6269 C153.11,1218.6569 203.85,1080.4769 286,991.2969 C290.35,986.5669 295.1,982.0569 300.1,977.7569 " fill="none" id="2-to-18" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="303.97,974.5069,294.5052,977.2303,300.1406,977.7218,299.6491,983.3573,303.97,974.5069" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="1027.5791"> </text></g><!--MD5=[8b61ecb4061ecf4b9c51541ee96386fe]
+link 2 to 19--><g id="link_2_19"><path d="M126.56,1282.6569 C137.86,1199.5469 176.43,985.6769 286,850.2969 C289.79,845.6169 293.98,841.1669 298.46,836.9469 " fill="none" id="2-to-19" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.29,833.4569,292.9494,836.5799,298.6007,836.8316,298.349,842.4829,302.29,833.4569" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="891.5791"> </text></g><!--MD5=[5a5badae7065b82ef5bf6f5af2bc3c49]
+link 2 to 20--><g id="link_2_20"><path d="M122.59,1282.4869 C124.61,1182.2369 143.11,888.5869 286,709.2969 C289.85,704.4669 294.19,699.9669 298.87,695.7869 " fill="none" id="2-to-20" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.88,692.3569,293.4374,695.1565,299.0767,695.6026,298.6306,701.2418,302.88,692.3569" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="755.5791"> </text></g><!--MD5=[bfd01b8852387ae8943e3a6f7c9b7a61]
+link 2 to 21--><g id="link_2_21"><path d="M126.37,1282.5369 C141.39,1152.8569 199.31,699.0569 286,586.2969 C289.71,581.4669 293.92,576.9769 298.47,572.8169 " fill="none" id="2-to-21" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.38,569.3869,292.9783,572.3208,298.6233,572.6865,298.2576,578.3315,302.38,569.3869" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="649.5791"> </text></g><!--MD5=[cff39052db0cf6ae3a3e4709cd9d7cc0]
+link 2 to 22--><g id="link_2_22"><path d="M125.35,1282.3869 C137.61,1139.4369 189.58,599.8769 286,463.2969 C289.76,457.9669 294.06,452.9769 298.75,448.2969 " fill="none" id="2-to-22" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.41,444.7869,293.1482,448.1364,298.8039,448.2504,298.6899,453.9061,302.41,444.7869" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="523.5791"> </text></g><!--MD5=[0eceafed0cabd703747bd4d2713450e2]
+link 2 to 23--><g id="link_2_23"><path d="M124.03,1282.7269 C131.58,1125.6769 169.34,480.2869 286,322.2969 C289.57,317.4669 293.63,312.9869 298.05,308.8269 " fill="none" id="2-to-23" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="301.84,305.4069,292.4745,308.4544,298.1235,308.7517,297.8262,314.4007,301.84,305.4069" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="374.5791"> </text></g><!--MD5=[4227f914df69bc1afa13ca9240e25669]
+link 2 to 24--><g id="link_2_24"><path d="M126.04,1282.6569 C139.06,1157.3769 186.92,716.3269 251,356.2969 C263.53,285.9169 242.67,256.1569 286,199.2969 C289.69,194.4569 293.88,189.9469 298.42,185.7769 " fill="none" id="2-to-24" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="302.32,182.3469,292.9183,185.2808,298.5633,185.6465,298.1976,191.2915,302.32,182.3469" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="252" y="296.5791"> </text></g><rect fill="none" height="16.2969" id="_caption" style="stroke:none;stroke-width:1.0;" width="174" x="325" y="2581.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="325" y="2594.292">Artifact Hierarchy (Maven)</text><!--MD5=[2e6f9bd9bd94ec461885055afcc9aa2d]
+@startuml
+title Regression Tests - Containers
+caption Artifact Hierarchy (Maven)
+
+skinparam {
+  shadowing false
+  arrowFontSize 10
+  defaultTextAlignment center
+  wrapWidth 200
+  maxMessageSize 100
+}
+hide stereotype
+left to right direction
+skinparam rectangle<<22>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<11>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<12>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<23>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<13>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<24>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<14>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<15>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<16>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<17>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<18>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<19>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<2>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<3>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<4>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<5>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<6>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<7>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<8>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<9>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<20>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<10>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<21>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+package "Regression Tests\n[Software System]" {
+  rectangle "==Apache Causeway - Regression Tests\n<size:10>[Container: packaging: pom]</size>" <<2>> as 2
+  rectangle "==Apache Causeway - Regression Tests (stable)\n<size:10>[Container: packaging: jar]</size>" <<8>> as 8
+  rectangle "==Apache Causeway - Regression Tests (stable) - Bootstrapping\n<size:10>[Container: packaging: jar]</size>" <<9>> as 9
+  rectangle "==Apache Causeway - Regression Tests (stable) - Cmd/Exec/Audit/Session\n<size:10>[Container: packaging: pom]</size>" <<3>> as 3
+  rectangle "==Apache Causeway - Regression Tests (stable) - Cmd/Exec/Audit/Session - Generic\n<size:10>[Container: packaging: jar]</size>" <<4>> as 4
+  rectangle "==Apache Causeway - Regression Tests (stable) - Cmd/Exec/Audit/Session - JDO\n<size:10>[Container: packaging: jar]</size>" <<5>> as 5
+  rectangle "==Apache Causeway - Regression Tests (stable) - Cmd/Exec/Audit/Session - JPA\n<size:10>[Container: packaging: jar]</size>" <<6>> as 6
+  rectangle "==Apache Causeway - Regression Tests (stable) - Config\n<size:10>[Container: packaging: jar]</size>" <<10>> as 10
+  rectangle "==Apache Causeway - Regression Tests (stable) - Core WrapperFactory\n<size:10>[Container: packaging: jar]</size>" <<7>> as 7
+  rectangle "==Apache Causeway - Regression Tests (stable) - Cucumber\n<size:10>[Container: packaging: jar]</size>" <<11>> as 11
+  rectangle "==Apache Causeway - Regression Tests (stable) - Domain Model\n<size:10>[Container: packaging: jar]</size>" <<12>> as 12
+  rectangle "==Apache Causeway - Regression Tests (stable) - Event Handling\n<size:10>[Container: packaging: jar]</size>" <<13>> as 13
+  rectangle "==Apache Causeway - Regression Tests (stable) - Factory\n<size:10>[Container: packaging: jar]</size>" <<14>> as 14
+  rectangle "==Apache Causeway - Regression Tests (stable) - Interact\n<size:10>[Container: packaging: jar]</size>" <<15>> as 15
+  rectangle "==Apache Causeway - Regression Tests (stable) - Layouts\n<size:10>[Container: packaging: jar]</size>" <<16>> as 16
+  rectangle "==Apache Causeway - Regression Tests (stable) - Persistence (JDO)\n<size:10>[Container: packaging: jar]</size>" <<17>> as 17
+  rectangle "==Apache Causeway - Regression Tests (stable) - Persistence (JPA)\n<size:10>[Container: packaging: jar]</size>" <<18>> as 18
+  rectangle "==Apache Causeway - Regression Tests (stable) - Publishing (JPA)\n<size:10>[Container: packaging: jar]</size>" <<19>> as 19
+  rectangle "==Apache Causeway - Regression Tests (stable) - Rest\n<size:10>[Container: packaging: jar]</size>" <<20>> as 20
+  rectangle "==Apache Causeway - Regression Tests (stable) - Value Types\n<size:10>[Container: packaging: jar]</size>" <<21>> as 21
+  rectangle "==Apache Causeway - Regression Tests (stable) - Viewers Common\n<size:10>[Container: packaging: jar]</size>" <<22>> as 22
+  rectangle "==Apache Causeway - Regression Tests (stable) - Viewers JDO\n<size:10>[Container: packaging: jar]</size>" <<23>> as 23
+  rectangle "==Apache Causeway - Regression Tests (stable) - Viewers JPA\n<size:10>[Container: packaging: jar]</size>" <<24>> as 24
+}
+3 .[#707070].> 4 : ""
+3 .[#707070].> 5 : ""
+3 .[#707070].> 6 : ""
+2 .[#707070].> 8 : ""
+2 .[#707070].> 9 : ""
+2 .[#707070].> 3 : ""
+2 .[#707070].> 10 : ""
+2 .[#707070].> 7 : ""
+2 .[#707070].> 11 : ""
+2 .[#707070].> 12 : ""
+2 .[#707070].> 13 : ""
+2 .[#707070].> 14 : ""
+2 .[#707070].> 15 : ""
+2 .[#707070].> 16 : ""
+2 .[#707070].> 17 : ""
+2 .[#707070].> 18 : ""
+2 .[#707070].> 19 : ""
+2 .[#707070].> 20 : ""
+2 .[#707070].> 21 : ""
+2 .[#707070].> 22 : ""
+2 .[#707070].> 23 : ""
+2 .[#707070].> 24 : ""
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 18:12:26 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

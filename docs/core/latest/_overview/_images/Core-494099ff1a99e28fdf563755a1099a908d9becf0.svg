@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1747px" preserveAspectRatio="none" style="width:515px;height:1747px;background:#FFFFFF;" version="1.1" viewBox="0 0 515 1747" width="515px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="150" x="175.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="140" x="180.5" y="22.9951">Core - Containers</text><!--MD5=[09d29cf3bf6e8569eef9a69bc18e58ae]
+cluster Core\n[Software System]--><g id="cluster_Core\n[Software System]"><path d="M8.5,43.2969 L156.5,43.2969 A3.75,3.75 0 0 1 159,45.7969 L166,81.8906 L505.5,81.8906 A2.5,2.5 0 0 1 508,84.3906 L508,1712.7969 A2.5,2.5 0 0 1 505.5,1715.2969 L8.5,1715.2969 A2.5,2.5 0 0 1 6,1712.7969 L6,45.7969 A2.5,2.5 0 0 1 8.5,43.2969 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="166" y1="81.8906" y2="81.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="38" x="64.5" y="58.292">Core</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="147" x="10" y="74.5889">[Software System]</text></g><!--MD5=[719f049e567def7483c03ccc3af4ed75]
+entity 16--><g id="elem_16"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="199" x="283" y="1629.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="173" x="293" y="1654.6484">Apache Causeway -</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="155" x="305" y="1673.2734">JDK Supplemental</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="138" x="313.5" y="1686.3291">[Container: packaging: pom]</text></g><!--MD5=[5721696d2af8d327c8f4e7ea88061d17]
+entity 3--><g id="elem_3"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="219" x="273" y="1525.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="193" x="283" y="1550.6484">Apache Causeway Api</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="72" x="346.5" y="1569.2734">- AppLib</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="1582.3291">[Container: packaging: jar]</text></g><!--MD5=[dc00b6f0bfcb3e33cce0c0c30000e56b]
+entity 17--><g id="elem_17"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="219" x="273" y="1421.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="193" x="283" y="1446.6484">Apache Causeway Api</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="92" x="336.5" y="1465.2734">- Schemas</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="1478.3291">[Container: packaging: jar]</text></g><!--MD5=[773709cb2207c097691e7e7d3d2cc787]
+entity 2--><g id="elem_2"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="22" y="852.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="32" y="877.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="42" x="94" y="896.2734">Core</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="138" x="46" y="909.3291">[Container: packaging: pom]</text></g><!--MD5=[ca8cb0432c9090f8973c99138b4c3ca0]
+entity 4--><g id="elem_4"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="1298.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="1323.1484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="147" x="306" y="1341.7734">Core - Code Gen</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="110" x="327.5" y="1360.3984">(ByteBuddy)</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="1373.4541">[Container: packaging: jar]</text></g><!--MD5=[fad6a9c1e4f80769a7fea8e2093188d9]
+entity 5--><g id="elem_5"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="200" x="282.5" y="1193.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="1218.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="180" x="292.5" y="1237.2734">Core - Configuration</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="1250.3291">[Container: packaging: jar]</text></g><!--MD5=[a92bd7649e35c8a5fd4b3e9f57d24e4a]
+entity 6--><g id="elem_6"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="1089.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="1114.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="159" x="303" y="1133.2734">Core - Interaction</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="1146.3291">[Container: packaging: jar]</text></g><!--MD5=[cbb381f34bde73e199f6c8e56df9562c]
+entity 7--><g id="elem_7"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="202" x="281.5" y="966.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="991.1484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="176" x="291.5" y="1009.7734">Core - Internal Test</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="71" x="347" y="1028.3984">Support</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="1041.4541">[Container: packaging: jar]</text></g><!--MD5=[df1cfc51a8f3e60039521c9170723b8d]
+entity 8--><g id="elem_8"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="202" x="281.5" y="843.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="868.1484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="176" x="291.5" y="886.7734">Core - Internal Test</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="158" x="303.5" y="905.3984">Support (Vintage)</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="918.4541">[Container: packaging: jar]</text></g><!--MD5=[d25218acdea247ba6571a34297258ee9]
+entity 9--><g id="elem_9"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="738.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="763.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="159" x="303" y="782.2734">Core - MetaModel</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="795.3291">[Container: packaging: jar]</text></g><!--MD5=[832467b18690d1dd1b9afbdc6cb3d7bf]
+entity 10--><g id="elem_10"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="634.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="659.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="147" x="309" y="678.2734">Core - Privileged</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="691.3291">[Container: packaging: jar]</text></g><!--MD5=[e25884bd7fe840786d881277a14c5a0e]
+entity 11--><g id="elem_11"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="530.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="555.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="134" x="315.5" y="574.2734">Core - Runtime</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="587.3291">[Container: packaging: jar]</text></g><!--MD5=[2e47fe9ff0124b653d7be087bd1c1ac2]
+entity 12--><g id="elem_12"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="407.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="432.1484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="134" x="312.5" y="450.7734">Core - Runtime</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="75" x="345" y="469.3984">Services</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="482.4541">[Container: packaging: jar]</text></g><!--MD5=[2cd44814ab46f5e6a99045c6c67d7a1c]
+entity 13--><g id="elem_13"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="302.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="327.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="134" x="315.5" y="346.2734">Core - Security</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="359.3291">[Container: packaging: jar]</text></g><!--MD5=[b289b39ced8dc6d267141842d8cb9775]
+entity 14--><g id="elem_14"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="198.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="223.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="165" x="300" y="242.2734">Core - Transaction</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="255.3291">[Container: packaging: jar]</text></g><!--MD5=[50c48f50f23c4505b4e1bf8eb0388b7a]
+entity 15--><g id="elem_15"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="186" x="289.5" y="94.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="160" x="299.5" y="119.6484">Apache Causeway</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="135" x="315" y="138.2734">Core - WebApp</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="318.5" y="151.3291">[Container: packaging: jar]</text></g><!--MD5=[134e48eb41660a0c6f1dbc424bc78086]
+link 2 to 16--><g id="link_2_16"><path d="M119.34,921.9569 C132.39,1051.2169 183.76,1503.3169 273,1612.2969 C277.27,1617.5169 282.19,1622.2369 287.52,1626.5169 " fill="none" id="2-to-16" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="291.68,1629.7069,286.9687,1621.058,287.711,1626.6659,282.1031,1627.4083,291.68,1629.7069" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="1552.5791"> </text></g><!--MD5=[eeb69082328d10abd3b14fdeede0d8a3]
+link 2 to 3--><g id="link_2_3"><path d="M120.79,922.0869 C137.51,1039.0869 196.41,1416.1469 273,1508.2969 C277.31,1513.4769 282.26,1518.1869 287.61,1522.4469 " fill="none" id="2-to-3" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="291.78,1525.6169,287.0341,1516.9869,287.7989,1522.5918,282.194,1523.3566,291.78,1525.6169" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="1450.5791"> </text></g><!--MD5=[c207f4a95eb18802581a1fab8c8bdf35]
+link 2 to 17--><g id="link_2_17"><path d="M117.31,921.8569 C122.46,1011.8269 147.87,1256.4969 273,1403.2969 C277.81,1408.9369 283.35,1414.0269 289.35,1418.6169 " fill="none" id="2-to-17" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="293.56,1421.7169,288.6718,1413.1667,289.5293,1418.7582,283.9379,1419.6158,293.56,1421.7169" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="1354.5791"> </text></g><!--MD5=[d209f2622dd5d3103b9c9b4670e2d6db]
+link 2 to 4--><g id="link_2_4"><path d="M128.31,921.8269 C160.8,1012.3569 248.05,1251.6069 273,1280.2969 C277.48,1285.4469 282.5,1290.2769 287.86,1294.7669 " fill="none" id="2-to-4" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="292.02,1298.1469,287.5573,1289.3671,288.1394,1294.9939,282.5126,1295.576,292.02,1298.1469" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="1215.5791"> </text></g><!--MD5=[4e74f4bf4b09d37138dfb3a42c5ccc13]
+link 2 to 5--><g id="link_2_5"><path d="M134.51,922.0269 C174.91,997.7569 267.83,1171.3769 273,1176.2969 C278.54,1181.5569 284.7,1186.3769 291.21,1190.7769 " fill="none" id="2-to-5" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="295.76,1193.7469,290.4246,1185.4684,291.5779,1191.0064,286.0399,1192.1597,295.76,1193.7469" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="1115.5791"> </text></g><!--MD5=[8d5e64f07a3a026530162c78b23a3473]
+link 2 to 6--><g id="link_2_6"><path d="M138.89,921.8969 C166.75,961.9469 217.08,1027.9469 273,1071.2969 C280.27,1076.9369 288.23,1082.1969 296.44,1087.0369 " fill="none" id="2-to-6" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="301.03,1089.6869,295.237,1081.7219,296.7003,1087.1862,291.2359,1088.6495,301.03,1089.6869" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="1038.5791"> </text></g><!--MD5=[f03a35d0a29bcf5b4caf40b6b6655269]
+link 2 to 7--><g id="link_2_7"><path d="M190.66,921.8869 C218.76,934.9069 251.18,949.9269 281.24,963.8469 " fill="none" id="2-to-7" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="286.04,966.0769,279.5579,958.6618,281.504,963.9734,276.1924,965.9195,286.04,966.0769" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="942.5791"> </text></g><!--MD5=[0ad92ee86b71fc92e123e5500ea78341]
+link 2 to 8--><g id="link_2_8"><path d="M208.11,887.2969 C230.11,887.2969 253.76,887.2969 276.3,887.2969 " fill="none" id="2-to-8" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="281.39,887.2969,272.39,883.2969,276.39,887.2969,272.39,891.2969,281.39,887.2969" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="884.5791"> </text></g><!--MD5=[676073e7019c75b59fc2b05612aba49c]
+link 2 to 9--><g id="link_2_9"><path d="M196.38,852.7869 C227.95,839.2269 264.22,823.6569 296.24,809.9069 " fill="none" id="2-to-9" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="300.94,807.8869,291.0919,807.7667,296.3465,809.8617,294.2515,815.1163,300.94,807.8869" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="831.5791"> </text></g><!--MD5=[ecc6855e18f9a45a4c7eaf523375ba95]
+link 2 to 10--><g id="link_2_10"><path d="M142.42,852.5769 C171.39,816.2769 220.76,759.3969 273,721.2969 C280.26,715.9969 288.15,711.0169 296.24,706.3869 " fill="none" id="2-to-10" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="300.76,703.8569,290.9558,704.7936,296.4048,706.3129,294.8855,711.7619,300.76,703.8569" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="746.5791"> </text></g><!--MD5=[350ab8b289b532334afad443a8f96638]
+link 2 to 11--><g id="link_2_11"><path d="M128.35,852.6669 C149.86,796.6469 199.1,685.5269 273,617.2969 C278.78,611.9569 285.21,607.0669 291.98,602.5969 " fill="none" id="2-to-11" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="296.23,599.8769,286.4941,601.364,292.0199,602.5742,290.8097,608.1001,296.23,599.8769" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="651.5791"> </text></g><!--MD5=[f7b23945b808440529d54eae70ccd1cc]
+link 2 to 12--><g id="link_2_12"><path d="M122.7,852.5969 C137.98,781.3969 181.4,616.7769 273,513.2969 C277.67,508.0169 282.91,503.0769 288.49,498.4769 " fill="none" id="2-to-12" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="292.4,495.3469,282.8712,497.8371,288.4929,498.4669,287.8631,504.0886,292.4,495.3469" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="554.5791"> </text></g><!--MD5=[78aff816aa8a90b4ab29aa1634b5681f]
+link 2 to 13--><g id="link_2_13"><path d="M117.71,852.5869 C123.8,764.5669 151.21,529.6669 273,389.2969 C277.53,384.0769 282.7,379.3369 288.26,375.0469 " fill="none" id="2-to-13" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="292.59,371.8469,282.9727,373.9701,288.5662,374.8148,287.7214,380.4082,292.59,371.8469" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="431.5791"> </text></g><!--MD5=[3c15ce39e8e568d8007db2b3de990d68]
+link 2 to 14--><g id="link_2_14"><path d="M115.31,852.4869 C115.16,752.2769 127.85,459.2469 273,285.2969 C277.37,280.0569 282.4,275.3069 287.83,271.0069 " fill="none" id="2-to-14" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="292.07,267.8069,282.4789,270.0453,288.082,270.8229,287.3045,276.426,292.07,267.8069" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="329.5791"> </text></g><!--MD5=[62213bd213e9eab9cca34893f70ee040]
+link 2 to 15--><g id="link_2_15"><path d="M119.52,852.6469 C133.06,725.5069 185.42,286.6769 273,181.2969 C277.31,176.1169 282.26,171.4069 287.61,167.1469 " fill="none" id="2-to-15" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="291.78,163.9769,282.194,166.2371,287.7989,167.0019,287.0341,172.6068,291.78,163.9769" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="239" y="241.5791"> </text></g><rect fill="none" height="16.2969" id="_caption" style="stroke:none;stroke-width:1.0;" width="174" x="163.5" y="1722.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="163.5" y="1735.292">Artifact Hierarchy (Maven)</text><!--MD5=[62731d5942718f5775a30fb9c16d18bd]
+@startuml
+title Core - Containers
+caption Artifact Hierarchy (Maven)
+
+skinparam {
+  shadowing false
+  arrowFontSize 10
+  defaultTextAlignment center
+  wrapWidth 200
+  maxMessageSize 100
+}
+hide stereotype
+left to right direction
+skinparam rectangle<<11>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<12>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<13>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<14>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<15>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<16>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<17>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<2>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<3>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<4>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<5>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<6>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<7>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<8>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<9>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<10>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+package "Core\n[Software System]" {
+  rectangle "==Apache Causeway - JDK Supplemental\n<size:10>[Container: packaging: pom]</size>" <<16>> as 16
+  rectangle "==Apache Causeway Api - AppLib\n<size:10>[Container: packaging: jar]</size>" <<3>> as 3
+  rectangle "==Apache Causeway Api - Schemas\n<size:10>[Container: packaging: jar]</size>" <<17>> as 17
+  rectangle "==Apache Causeway Core\n<size:10>[Container: packaging: pom]</size>" <<2>> as 2
+  rectangle "==Apache Causeway Core - Code Gen (ByteBuddy)\n<size:10>[Container: packaging: jar]</size>" <<4>> as 4
+  rectangle "==Apache Causeway Core - Configuration\n<size:10>[Container: packaging: jar]</size>" <<5>> as 5
+  rectangle "==Apache Causeway Core - Interaction\n<size:10>[Container: packaging: jar]</size>" <<6>> as 6
+  rectangle "==Apache Causeway Core - Internal Test Support\n<size:10>[Container: packaging: jar]</size>" <<7>> as 7
+  rectangle "==Apache Causeway Core - Internal Test Support (Vintage)\n<size:10>[Container: packaging: jar]</size>" <<8>> as 8
+  rectangle "==Apache Causeway Core - MetaModel\n<size:10>[Container: packaging: jar]</size>" <<9>> as 9
+  rectangle "==Apache Causeway Core - Privileged\n<size:10>[Container: packaging: jar]</size>" <<10>> as 10
+  rectangle "==Apache Causeway Core - Runtime\n<size:10>[Container: packaging: jar]</size>" <<11>> as 11
+  rectangle "==Apache Causeway Core - Runtime Services\n<size:10>[Container: packaging: jar]</size>" <<12>> as 12
+  rectangle "==Apache Causeway Core - Security\n<size:10>[Container: packaging: jar]</size>" <<13>> as 13
+  rectangle "==Apache Causeway Core - Transaction\n<size:10>[Container: packaging: jar]</size>" <<14>> as 14
+  rectangle "==Apache Causeway Core - WebApp\n<size:10>[Container: packaging: jar]</size>" <<15>> as 15
+}
+2 .[#707070].> 16 : ""
+2 .[#707070].> 3 : ""
+2 .[#707070].> 17 : ""
+2 .[#707070].> 4 : ""
+2 .[#707070].> 5 : ""
+2 .[#707070].> 6 : ""
+2 .[#707070].> 7 : ""
+2 .[#707070].> 8 : ""
+2 .[#707070].> 9 : ""
+2 .[#707070].> 10 : ""
+2 .[#707070].> 11 : ""
+2 .[#707070].> 12 : ""
+2 .[#707070].> 13 : ""
+2 .[#707070].> 14 : ""
+2 .[#707070].> 15 : ""
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 18:12:26 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

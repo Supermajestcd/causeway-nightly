@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="369px" preserveAspectRatio="none" style="width:852px;height:369px;background:#FFFFFF;" version="1.1" viewBox="0 0 852 369" width="852px" zoomAndPan="magnify"><defs/><g><g id="elem_DO"><ellipse cx="611.9619" cy="118.0473" fill="#F1F1F1" rx="48.9619" ry="26.0473" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="585.4619" y="112.7455">Domain</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="589.4619" y="129.0424">Object</text></g><g id="elem_E"><ellipse cx="703.9534" cy="228.0556" fill="#F1F1F1" rx="38.4534" ry="14.5556" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="683.0903" y="231.5095">Entity</text></g><g id="elem_VM"><ellipse cx="604.1838" cy="228.0473" fill="#F1F1F1" rx="41.1838" ry="26.0473" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="588.1838" y="222.7455">View</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="583.1838" y="239.0424">Model</text></g><g id="elem_M"><ellipse cx="371.0514" cy="118.0323" fill="#F1F1F1" rx="35.5514" ry="14.5323" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="353.1581" y="121.1955">Mixin</text></g><g id="elem_ME"><ellipse cx="466.9237" cy="118.0719" fill="#F1F1F1" rx="39.9237" ry="14.5719" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="444.5405" y="121.6655">Mixee</text></g><g id="elem_MB"><ellipse cx="371.1007" cy="228.215" fill="#F1F1F1" rx="52.6007" ry="14.715" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="339.6007" y="231.9626">Member</text></g><g id="elem_P"><ellipse cx="292.8472" cy="337.2215" fill="#F1F1F1" rx="53.3472" ry="14.7215" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="260.8472" y="340.969">Property</text></g><g id="elem_C"><ellipse cx="427.813" cy="336.7771" fill="#F1F1F1" rx="60.813" ry="14.7771" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="390.813" y="340.5247">Collection</text></g><g id="elem_A"><ellipse cx="178.1531" cy="337.1013" fill="#F1F1F1" rx="42.1531" ry="14.6013" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="153.6531" y="340.8489">Action</text></g><g id="elem_FW"><ellipse cx="604.0656" cy="337.1131" fill="#F1F1F1" rx="83.5656" ry="19.1131" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="127" x="540.1623" y="340.0974">Apache Causeway</text></g><g id="elem_PL"><ellipse cx="776.968" cy="337.0473" fill="#F1F1F1" rx="69.468" ry="26.0473" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="735.968" y="331.7455">Persistence</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="758.968" y="348.0424">Layer</text></g><g id="elem_S"><ellipse cx="54.8761" cy="118.1644" fill="#F1F1F1" rx="47.3761" ry="14.6644" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="26.8761" y="121.9119">Service</text></g><g id="elem_DS"><ellipse cx="54.9619" cy="228.0473" fill="#F1F1F1" rx="48.9619" ry="26.0473" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="28.4619" y="222.7455">Domain</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="29.9619" y="239.0424">Service</text></g><g id="elem_SPRING"><ellipse cx="54.8991" cy="20.6113" fill="#F1F1F1" rx="42.8991" ry="14.6113" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="44" x="29.8991" y="24.3588">Spring</text></g><!--MD5=[1e04afca7e4c186bc88ae8d654e0637f]
+reverse link DO to VM--><g id="link_DO_VM"><path d="M609.77,149.06 C608.55,165.63 607.04,185.97 605.87,201.71 " fill="none" id="DO-backto-VM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="610.14,144.05,605.5072,152.7412,609.7827,149.0372,613.4867,153.3128,610.14,144.05" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="581.7162" y="190.9674">is a</text></g><!--MD5=[8508697190e00d1959ce073bc12ae406]
+reverse link DO to E--><g id="link_DO_E"><path d="M634.88,145.86 C653.36,167.56 678.58,197.16 692.89,213.95 " fill="none" id="DO-backto-E" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="631.51,141.9,634.2921,151.3477,634.7487,145.7093,640.3871,146.1659,631.51,141.9" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="662.2025" y="202.5358">is a</text></g><!--MD5=[ea5806870c5fd32f899b3a4dd381e09f]
+reverse link VM to FW--><g id="link_VM_FW"><path d="M604,259.27 C604,278.12 604,301.74 604,317.76 " fill="none" id="VM-backto-FW" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="604,254.09,600,263.09,604,259.09,608,263.09,604,254.09" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="605" y="299.0669">manages</text></g><!--MD5=[3d318a2f00e2d8a6bc928f4fd6d1f209]
+reverse link E to PL--><g id="link_E_PL"><path d="M715.86,246.38 C727.89,264.02 746.62,291.47 760.18,311.35 " fill="none" id="E-backto-PL" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="712.95,242.12,714.7369,251.8054,715.776,246.2448,721.3366,247.2838,712.95,242.12" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="754" y="299.0669">manages</text></g><!--MD5=[fb03951c8977dbddaa66e08e228ad265]
+reverse link MB to P--><g id="link_MB_P"><path d="M358.16,246.62 C342.62,267.93 316.82,303.32 302.8,322.56 " fill="none" id="MB-backto-P" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="361.12,242.55,352.5894,247.4724,358.1774,246.5924,359.0574,252.1804,361.12,242.55" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="280.4138" y="311.4793">is a</text></g><!--MD5=[7836793742dd9c4d9c92c79c1667668d]
+reverse link MB to C--><g id="link_MB_C"><path d="M380.64,247.1 C391.89,268.21 410.23,302.65 420.48,321.88 " fill="none" id="MB-backto-C" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="378.22,242.55,378.9441,252.3722,380.5811,246.9574,385.9959,248.5944,378.22,242.55" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="391.9489" y="310.9916">is a</text></g><!--MD5=[cd1d3de32c1164f3c6ee0cef5a2657ee]
+reverse link MB to A--><g id="link_MB_A"><path d="M344.29,243.81 C305.49,265.32 234.31,304.78 199,324.36 " fill="none" id="MB-backto-A" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="348.86,241.27,339.05,242.1442,344.4892,243.6982,342.9352,249.1374,348.86,241.27" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="214.5254" y="311.5916">is a</text></g><!--MD5=[df3a0e21e14f1405aaf1784f1a6661b8]
+link DO to MB--><g id="link_DO_MB"><path d="M575.4,135.4 C528.01,156.64 446.25,193.28 401.86,213.17 " fill="none" id="DO-to-MB" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="397.15,215.28,406.9988,215.2485,401.7125,213.2347,403.7264,207.9485,397.15,215.28" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="506" y="177.5669">has 1..*</text></g><!--MD5=[78e04ac827af8dd1fc8e3fb9e2e87134]
+link M to MB--><g id="link_M_MB"><path d="M371,132.68 C371,151.83 371,186.7 371,208.26 " fill="none" id="M-to-MB" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="371,213.43,375,204.43,371,208.43,367,204.43,371,213.43" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="289.3112" y="152.7504">contributes</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="323.3112" y="167.8832">a</text></g><!--MD5=[32c794f06a34fd8c446db38a63b9e8ed]
+link M to ME--><g id="link_M_ME"><path d="M406.62,118 C411.7,118 416.77,118 421.84,118 " fill="none" id="M-to-ME" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="426.91,118,417.91,114,421.91,118,417.91,122,426.91,118" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="393.4411" y="77.3121">contributes</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="13" x="424.9411" y="92.4449">to</text></g><!--MD5=[cb1ffdff54218f1556d86ab3f789ef25]
+link DO to ME--><g id="link_DO_ME"><path d="M562.82,118 C546.49,118 528.39,118 512.36,118 " fill="none" id="DO-to-ME" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="507.01,118,516.01,122,512.01,118,516.01,114,507.01,118" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="521.5" y="81.0669">can</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="525" y="96.1997">act</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="15" x="529.5" y="111.3325">as</text></g><!--MD5=[aaa5e3decb3a18be11a3ece003ae6d4d]
+link SPRING to S--><g id="link_SPRING_S"><path d="M55,35.18 C55,51.64 55,79.35 55,97.9 " fill="none" id="SPRING-to-S" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="55,103.34,59,94.34,55,98.34,51,94.34,55,103.34" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="56" y="56.0669">manages</text></g><!--MD5=[6eb9faedd7ea55fff83c762ffb343295]
+reverse link S to DS--><g id="link_S_DS"><path d="M55,137.89 C55,155.65 55,182.37 55,201.92 " fill="none" id="S-backto-DS" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="55,132.68,51,141.68,55,137.68,59,141.68,55,132.68" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="30.328" y="190.8064">is a</text></g><!--MD5=[4e12fd745e74cc9b0d722ea0b806bab5]
+link DS to A--><g id="link_DS_A"><path d="M79.89,250.65 C103.42,271.12 138.18,301.36 159.39,319.81 " fill="none" id="DS-to-A" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="163.19,323.11,159.0124,314.1911,159.413,319.8337,153.7703,320.2343,163.19,323.11" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="139" y="299.0669">has 1..*</text></g><!--MD5=[2eb0efafabe123a6754230dcdc802991]
+@startuml
+skinparam nodesep 20
+skinparam ranksep 1
+
+together {
+	(Domain\nObject) as DO
+	(Entity) as E
+	(View\nModel) as VM
+}
+(<i>Apache Causeway</i>) as FW
+(Persistence\nLayer) as PL
+together {
+	(Mixin) as M
+	(Mixee) as ME
+}
+(Service) as S
+(Domain\nService) as DS
+(<i>Spring</i>) as SPRING
+together {
+	(Member) as MB
+	(Property) as P
+	(Collection) as C
+	(Action) as A
+}
+
+DO <-d-"is a" VM
+DO <-d-"is a" E
+FW .u.> VM : manages
+PL .u.> E : manages
+
+P "is a"-u-> MB
+C "is a"-u-> MB
+A "is a"-u-> MB
+
+DO - -> MB : has 1..*
+
+M "contributes\n a"..> MB
+M "contributes\n to"-> ME
+DO -> ME : can \n act \n as
+
+SPRING ..> S : manages
+DS "is a"-u-> S
+DS - -> A : has 1..*
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 18:12:26 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

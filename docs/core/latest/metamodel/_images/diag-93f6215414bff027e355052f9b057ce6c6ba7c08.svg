@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1178px" preserveAspectRatio="none" style="width:1925px;height:1178px;background:#FFFFFF;" version="1.1" viewBox="0 0 1925 1178" width="1925px" zoomAndPan="magnify"><defs/><g><rect fill="#DDDDDD" height="46.5938" id="_legend" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:1.0;" width="191" x="860.1144" y="12"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="65" x="870.1144" y="31.9951">notation</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="91" x="950.1144" y="31.9951">explanation</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="865.1144" y="48.292"> </text><text fill="#000000" font-family="monospace" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="72" x="869.1144" y="48.292">underline</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="941.1144" y="48.292"> </text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="949.1144" y="48.292">DDD Pattern</text><line style="stroke:#000000;stroke-width:1.0;" x1="865.1144" x2="1046.1144" y1="19" y2="19"/><line style="stroke:#000000;stroke-width:1.0;" x1="865.1144" x2="1046.1144" y1="35.2969" y2="35.2969"/><line style="stroke:#000000;stroke-width:1.0;" x1="865.1144" x2="1046.1144" y1="51.5938" y2="51.5938"/><line style="stroke:#000000;stroke-width:1.0;" x1="865.1144" x2="865.1144" y1="19" y2="51.5938"/><line style="stroke:#000000;stroke-width:1.0;" x1="945.1144" x2="945.1144" y1="19" y2="51.5938"/><line style="stroke:#000000;stroke-width:1.0;" x1="1046.1144" x2="1046.1144" y1="19" y2="51.5938"/><!--MD5=[e060ccde857721ac6446faa13a2ac499]
+entity PERS--><g id="elem_PERS"><rect fill="#F1F1F1" height="100.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118" x="817" y="240.5938"/><image height="48" width="42" x="827" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAwCAIAAADo7H/xAAADQklEQVR4XsWY63HjMAyE0yJLcAkqwSW4hJTgElyCSlAJ6OBw2nC9BEi9fHPZHx6NCOIj8SCVfNmv6iu++L/6CD/P8/P5jG/P6CJ+WZZpmsqq2+12eRGn8Q7+/v4GWHW/3z0Y0XpPp/GPxyOSqzwe0XpPR/G+M9+f75vPCvb4v14vDh3PxT4+RNtJCLLz/NnfeDxgpoHxSBzJxQ6ejCD37jxbqf7brYayFgQMRhrit/1yc8uqUUFcxCO1TGHINN+j95B1bUUI6/NfxK+bi4j37Wq02dM+2b37KHYTtutDWIT/+jOnhHXngnjjucysSTpqwww1CPkK4nAV2gdqdj/KNJsKZt1Msxhh5s9h6zTTAPzgGb0QsdBUmgua5ZchF10zLOIHDwsGeV4zPSp+d4Qh9+6OMCWHhEPugXmhWQcP0TQXs4r172ajarjVM8rWalCzId5l687gOqdQw4iHkZkWTTDYwRdZ+yzVjrrVwCiGZowNqHygGnyInsmCPBfItHv0OSzDIFaTm+WiyXjYvBtPnSoeCrvpSis3DOlEFrURj3Kba+dYwhcpCJpRjP+yyp91tFQ8zRihd+51bIQvbZCRMix9qffya1U79e/csPQm97S71Z5+plNTze61p2GsvIzPTV9GeAgvQ5UFM0YrnA2Kn+SI3ap8HSiVhCywx7IZthVeEq/T7QK+tKd3NhvhQV3kLNrBh2s+OL3Xj5bgIuPZVKF0wlxWQ3PhMtOW9lSkIJjsgMe+ra1EyCpem9701EOq0Bg2wDMX6Dri8RWEuf7bxbuNIjq516WFY7i0BQEzuMAzj1itfAo+7fiFu6Q/prpmlm7SgGfdBLMhvqwkFrBWb2OUcg8RH7pmq/J1oFTSrb1ws9kGHmm2eijZNj5kWp0+6oWbzbp4+LW9C7fB26ULN+CnesTOZy9caN67cNk5CKniWSvLgQuXavAQGGF+qWtiy7oZPrywCHYKSy/MDWCog4fy97XJmnA0UU85YjM+GKuGePtHF25309QWHprr96uljHQrH3ie4tvax0PYRCCN8CjA4KGro3hIc1F6eG2qIzqHh5jsgN9Oc1dX8Fb/50M8OvCCLuIhHACnoh30Ef5z/TL+D+4JGyELkjUiAAAAAElFTkSuQmCC" y="250.5938"/><image height="48" width="48" x="869" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADNUlEQVR4Xu1YbXHrMBA0BUMIBEMohEAIhEAIhEAIhEAIhEAoBDHojm6yXd+dLLl9M+/Nm+yPTm2fTnt7H5YzlX8Mk7/xt/Em1MN/ROjxeFwul9Pp9PHC8XjEJW7e73dvPYzdhMADu04DAMXr9erX97CDEKgsy+K37WGe5120RgmlqkCD8/mM/W63G/4iWbhE4kDCWSKS5/PpnWboE4Kjw+Gg3sGjWyVYBXKOWXdV6RJCmtQpAh1xqgAtoTRBS2+xxhYhRKls4NpbjMFFtR3SFiHNVIzMkqJlDnvc0Vr5rDBjcsI/djNFk5BWsWMDd2mNE6humKG67RJES+VEAzxSh4qcEETmYpcpp38L4EQzNIGtRWA0gB91S+SE4MKWISN6X4nSAHvfKmJbGTQkeiZLh4SQ7qoFiEzpfkhELE/YxOGpGVfnaSUlhFgfLggGN1VhUndlXSsGLfMivZJO8IQQZdDIIAY3sCLdAMvZ4J5yMqVZ89Yqqd7XRLTqkUDoNHZVWCQ2RO4elUiIvpS+skzDctBuQgH4x9j1hZh3T4gFpK2h4z8WcoQSygvlhSi2J8T0qyPN17dpGxgEtHcVbWCZxvD8BmwlJcT1sSBS6Bz3zyoY4Q8J0fvGyFd0A2Dn70iZvY9KnXV2Z2pUqIN2QMueBjGhnhDrl772EtL5mVZ0a7IY/C02iE4/rm+lgND+mrKMlPabwOAJqR7UUw9GcXIQ7kA3ZQKoPKl+yRq2AEeRdk0ra5FNHMR6dGm9fxJCHNbz62jn3peRkw4eBeVEe7sXXJrNkhIq0repSIaP+qnqDhu41LE+1aj00hDHD5ETSket2zsCFCFJPH4olt4HWk6oiEhINpV30RPz+vMUArhPORhAzg1hiCYhPQBpf4KcnVaP9acF/NPaBko8KjYaM6JJqKz1WNpHxC6Mlr/bwBahsq5lyN4SYwOMapBTh1AJ/YX0DbpGVWklpXM5ok+orI+khqV+/aTMoOI5fA91m4sYIlRqhepbU4G9oUQ6bww8OIxglJAB0bdoRYAipNrbCvsIGaAWgm4xg1ooO/dzwDh+QkgBAVBJUG7vvGnht4T+ON6EengT6uELC5tAI/cl/6cAAAAASUVORK5CYII=" y="250.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="827" y="311.5889">«Annotation»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="827" y="327.8857">ORM (JPA/JDO)</text></g><!--MD5=[1c9cb56c1914fadbbf6cfb8b9dab51fc]
+entity SPRING--><g id="elem_SPRING"><rect fill="#F1F1F1" height="100.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="116" x="819" y="78.5938"/><image height="48" width="48" x="829" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACgElEQVR4Xs2YYZnCMAyGawEJSDgJSDgJSEACEpCABCQgAQlIqIP7ruEpaZYmaTluvL9g3dp3TdJuS/nDSPLA2jyE9vv9V2G3230XcORwOJxOp8vlcrvdmoveyUPoeDwmj81mA2OIns/n9yk+hK7XqxzfA34k13b4Ks8ckgOOgBDjlli38zyFkD11ANw9UgdxxA82rgMC+vqEPYWQv2IAHMmx9OJA65UMewqhF9l3iQWa7vc7n78IuI3a8xDNOqQGCCrUOjpV9cIhGiHMh+y1ULtGYsk2k+12i9nlQ7g0Qss0qmCRpHNGF4hRp0bIHgzTEzltyZCT3MtkZwxkWD0N5S2bTeL5JIXsaqqBy2X7k80mtIi4SCG3lPgag1jI5j58gg2kkJsffPLdkwWRSZJCv4c8+LbVWylUMKNsHB1FyE6jVDaHejLKRzabuHuwIuSmUWJLAECmy+Y+vCxUFKFIZojJV/ccFTdqilCODcAz1Fjil9iLpC4UWWNEGceXAB7uJbpQcBOF9+glySt+XSjHopbaqnHLk7DzuisUrB2epJFqSO28LukKxRcY/nAYuY1JoRxLbYLnqRvreSH1KVsFErWY3eyezCEiEgKC7yf2Bmc//ztCeWSBoVcU96rJsq/EA5eYk3GV/TLpC+VAWnDqA1NvP7E3/JBQHnRCvGhU9cFhZi9TwRhuSXNQEBh7+Tog+21xmgUT79T0yQY1SH8nHz9skBxDU5WKB13ivg/NCBGjH2uINwoRCAdK3TZDKzwQO1qc5reOIbDwoBLhdyrgB/6KCkcKuk5/JhSkOvV2tP8Wyp7TCkLZdFpHKPedVhPKHac1hXJxOhfqkZWFlnyc0A8IssTzp/eFigAAAABJRU5ErkJggg==" y="88.5938"/><image height="48" width="48" x="877" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADNUlEQVR4Xu1YbXHrMBA0BUMIBEMohEAIhEAIhEAIhEAIhEAoBDHojm6yXd+dLLl9M+/Nm+yPTm2fTnt7H5YzlX8Mk7/xt/Em1MN/ROjxeFwul9Pp9PHC8XjEJW7e73dvPYzdhMADu04DAMXr9erX97CDEKgsy+K37WGe5120RgmlqkCD8/mM/W63G/4iWbhE4kDCWSKS5/PpnWboE4Kjw+Gg3sGjWyVYBXKOWXdV6RJCmtQpAh1xqgAtoTRBS2+xxhYhRKls4NpbjMFFtR3SFiHNVIzMkqJlDnvc0Vr5rDBjcsI/djNFk5BWsWMDd2mNE6humKG67RJES+VEAzxSh4qcEETmYpcpp38L4EQzNIGtRWA0gB91S+SE4MKWISN6X4nSAHvfKmJbGTQkeiZLh4SQ7qoFiEzpfkhELE/YxOGpGVfnaSUlhFgfLggGN1VhUndlXSsGLfMivZJO8IQQZdDIIAY3sCLdAMvZ4J5yMqVZ89Yqqd7XRLTqkUDoNHZVWCQ2RO4elUiIvpS+skzDctBuQgH4x9j1hZh3T4gFpK2h4z8WcoQSygvlhSi2J8T0qyPN17dpGxgEtHcVbWCZxvD8BmwlJcT1sSBS6Bz3zyoY4Q8J0fvGyFd0A2Dn70iZvY9KnXV2Z2pUqIN2QMueBjGhnhDrl772EtL5mVZ0a7IY/C02iE4/rm+lgND+mrKMlPabwOAJqR7UUw9GcXIQ7kA3ZQKoPKl+yRq2AEeRdk0ra5FNHMR6dGm9fxJCHNbz62jn3peRkw4eBeVEe7sXXJrNkhIq0repSIaP+qnqDhu41LE+1aj00hDHD5ETSket2zsCFCFJPH4olt4HWk6oiEhINpV30RPz+vMUArhPORhAzg1hiCYhPQBpf4KcnVaP9acF/NPaBko8KjYaM6JJqKz1WNpHxC6Mlr/bwBahsq5lyN4SYwOMapBTh1AJ/YX0DbpGVWklpXM5ok+orI+khqV+/aTMoOI5fA91m4sYIlRqhepbU4G9oUQ6bww8OIxglJAB0bdoRYAipNrbCvsIGaAWgm4xg1ooO/dzwDh+QkgBAVBJUG7vvGnht4T+ON6EengT6uELC5tAI/cl/6cAAAAASUVORK5CYII=" y="88.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="829" y="149.5889">«Annotation»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="829" y="165.8857">Spring</text></g><!--MD5=[fb4a08e111f2163e9179077dacc52f93]
+entity FW--><g id="elem_FW"><rect fill="#F1F1F1" height="100.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="700" x="235" y="448.0938"/><text fill="#000000" font-family="monospace" font-size="14" lengthAdjust="spacing" textLength="632" x="245" y="502.792">(Cannot decode: https://causeway.apache.org/_/img/home/causeway-logo-79x64.png)</text><image height="48" width="48" x="877" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADNUlEQVR4Xu1YbXHrMBA0BUMIBEMohEAIhEAIhEAIhEAIhEAoBDHojm6yXd+dLLl9M+/Nm+yPTm2fTnt7H5YzlX8Mk7/xt/Em1MN/ROjxeFwul9Pp9PHC8XjEJW7e73dvPYzdhMADu04DAMXr9erX97CDEKgsy+K37WGe5120RgmlqkCD8/mM/W63G/4iWbhE4kDCWSKS5/PpnWboE4Kjw+Gg3sGjWyVYBXKOWXdV6RJCmtQpAh1xqgAtoTRBS2+xxhYhRKls4NpbjMFFtR3SFiHNVIzMkqJlDnvc0Vr5rDBjcsI/djNFk5BWsWMDd2mNE6humKG67RJES+VEAzxSh4qcEETmYpcpp38L4EQzNIGtRWA0gB91S+SE4MKWISN6X4nSAHvfKmJbGTQkeiZLh4SQ7qoFiEzpfkhELE/YxOGpGVfnaSUlhFgfLggGN1VhUndlXSsGLfMivZJO8IQQZdDIIAY3sCLdAMvZ4J5yMqVZ89Yqqd7XRLTqkUDoNHZVWCQ2RO4elUiIvpS+skzDctBuQgH4x9j1hZh3T4gFpK2h4z8WcoQSygvlhSi2J8T0qyPN17dpGxgEtHcVbWCZxvD8BmwlJcT1sSBS6Bz3zyoY4Q8J0fvGyFd0A2Dn70iZvY9KnXV2Z2pUqIN2QMueBjGhnhDrl772EtL5mVZ0a7IY/C02iE4/rm+lgND+mrKMlPabwOAJqR7UUw9GcXIQ7kA3ZQKoPKl+yRq2AEeRdk0ra5FNHMR6dGm9fxJCHNbz62jn3peRkw4eBeVEe7sXXJrNkhIq0repSIaP+qnqDhu41LE+1aj00hDHD5ETSket2zsCFCFJPH4olt4HWk6oiEhINpV30RPz+vMUArhPORhAzg1hiCYhPQBpf4KcnVaP9acF/NPaBko8KjYaM6JJqKz1WNpHxC6Mlr/bwBahsq5lyN4SYwOMapBTh1AJ/YX0DbpGVWklpXM5ok+orI+khqV+/aTMoOI5fA91m4sYIlRqhepbU4G9oUQ6bww8OIxglJAB0bdoRYAipNrbCvsIGaAWgm4xg1ooO/dzwDh+QkgBAVBJUG7vvGnht4T+ON6EengT6uELC5tAI/cl/6cAAAAASUVORK5CYII=" y="458.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="245" y="519.0889">«Annotation»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="245" y="535.3857">Apache Causeway</text></g><!--MD5=[8b2ff9d1f7829004ecac6fa4ee22dbd9]
+entity SM--><g id="elem_SM"><rect fill="#F1F1F1" height="121.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="703" x="232.5" y="675.0938"/><text fill="#000000" font-family="monospace" font-size="14" lengthAdjust="spacing" textLength="632" x="242.5" y="750.792">(Cannot decode: https://causeway.apache.org/_/img/home/causeway-logo-79x64.png)</text><image height="69" width="51" x="874.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAABFCAIAAABouEmhAAAC5UlEQVR4Xu2Y2ZXCMAxFaTkluARKoARKoARKSAnuYHQsIsTzJm/AmZn7h2SSGy+KnZNfzPV6xZCNEwa+hneYOecwZODfrJ3lZrfb7UvNXACjBv6qGWtdLhdMGFhotu97d4f5pWas9XVmg1p+kZlo0YBizsx8M9Hqm/jCTLP7/S5a5/MZ04o9gNFXppmRSlWLV2suC8wxE6fcjfkd5VoWxAQzrUUGkJUhbp12Q2ZSSxlMj9WOfjM93+N76yykjHSalXuLBi6XstNp9pSK7k1HklyqiR4zZeVo1HJZiLcyamZPtdJsJpXJFTus+5gpNJuVp9EnzfSqLKTibCvNZr44x5XY0BbILzVLNrDTY+YPg/hVqHccLvN2N9JpVtg7aDM3MKadZv7onngN6rLCQAMj/Wb+6B6MRt2GaRtDZt4m1zego2Y+SMRLoVD2jEww80EOQ8XiYmGOmU/JjWj5iWY+jKD+6VLHghh+EW/bBlPCZMZbZ/qzvXK61E4E0E9CWtsBR0pm0touxFSdcmi5tJm04EbTydURivNNaRokzLTWNmxG/ccHFuMFpVnCjMZO0kkexSCAuTxxzUsi7RNmAvUtLRxpaoeejYYjN2Rl5CIls/cjg+BzK+BTsJYL9dlqxs+xFNaSG9XNZKphooXqnONb6FVSN3s8SMCFbUW1kNL0Ty5wbBegxsls3cxHFa6b+F3CcQgyJjNGHq6J3Evd1XaUDWZJdgXmxhg1W8evMON5g9FlWM30pN5C+aA6l5xbFOSjqG6MjQxYzaiGPb16wYsWsZoxeCszeCEDaTP5fBfXRqZa26rlqsqLmVxXB9+Jfu89zD7uxGiBkx6XvkU0BV7LOnISLc3gFDGiKwvmeDSfRhmMm5+Y+OAE4B8O6F+4NvfwDQcvMI/4S6BmP86bPlc1clAf0KWhxGu4d3M7nxy6jMvItJlNJH42aFAxk6ehfuqYZ14dI5IUBrdiBtA80B9tmqA/Ni35H3XNtMtkTbu9AAAAAElFTkSuQmCC" y="685.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159" x="242.5" y="767.0889">«Supporting Methods»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="242.5" y="783.3857">Apache Causeway</text></g><!--MD5=[4c9e4311d303890e66534ffe6d36261d]
+entity JAXB--><g id="elem_JAXB"><rect fill="#F1F1F1" height="121.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167" x="698.5" y="877.5938"/><image height="69" width="51" x="708.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAABFCAIAAABouEmhAAAC5UlEQVR4Xu2Y2ZXCMAxFaTkluARKoARKoARKSAnuYHQsIsTzJm/AmZn7h2SSGy+KnZNfzPV6xZCNEwa+hneYOecwZODfrJ3lZrfb7UvNXACjBv6qGWtdLhdMGFhotu97d4f5pWas9XVmg1p+kZlo0YBizsx8M9Hqm/jCTLP7/S5a5/MZ04o9gNFXppmRSlWLV2suC8wxE6fcjfkd5VoWxAQzrUUGkJUhbp12Q2ZSSxlMj9WOfjM93+N76yykjHSalXuLBi6XstNp9pSK7k1HklyqiR4zZeVo1HJZiLcyamZPtdJsJpXJFTus+5gpNJuVp9EnzfSqLKTibCvNZr44x5XY0BbILzVLNrDTY+YPg/hVqHccLvN2N9JpVtg7aDM3MKadZv7onngN6rLCQAMj/Wb+6B6MRt2GaRtDZt4m1zego2Y+SMRLoVD2jEww80EOQ8XiYmGOmU/JjWj5iWY+jKD+6VLHghh+EW/bBlPCZMZbZ/qzvXK61E4E0E9CWtsBR0pm0touxFSdcmi5tJm04EbTydURivNNaRokzLTWNmxG/ccHFuMFpVnCjMZO0kkexSCAuTxxzUsi7RNmAvUtLRxpaoeejYYjN2Rl5CIls/cjg+BzK+BTsJYL9dlqxs+xFNaSG9XNZKphooXqnONb6FVSN3s8SMCFbUW1kNL0Ty5wbBegxsls3cxHFa6b+F3CcQgyJjNGHq6J3Evd1XaUDWZJdgXmxhg1W8evMON5g9FlWM30pN5C+aA6l5xbFOSjqG6MjQxYzaiGPb16wYsWsZoxeCszeCEDaTP5fBfXRqZa26rlqsqLmVxXB9+Jfu89zD7uxGiBkx6XvkU0BV7LOnISLc3gFDGiKwvmeDSfRhmMm5+Y+OAE4B8O6F+4NvfwDQcvMI/4S6BmP86bPlc1clAf0KWhxGu4d3M7nxy6jMvItJlNJH42aFAxk6ehfuqYZ14dI5IUBrdiBtA80B9tmqA/Ni35H3XNtMtkTbu9AAAAAElFTkSuQmCC" y="887.5938"/><image height="48" width="48" x="759.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACH0lEQVR4Xu2YXZUCMQxGawEJSEACEpCABCQgAQlIQAISkICEONjAnMl+k+nPlzJ7loe5T2zTpHeZdtJDki8j+YH/ZhVqsQq1WFLoer1uNpvD4XA+nx+Phw9zLCl0Op3SiH72YY4lhXa7nQnpt+XDHEsKmY3yfD59mGMxId00ZqM7yYdpYkKVB3G5XExov9/beCUlS0BIS+tifnTkeDyakJ4yG0/B/VRcwDHYVIS2260J3W43Gx9GeKfiAojZpLKQTUjTHW2DpFNxAQNtUkHofr/bBP2qMASplFN+AcPZpIKQbhqboG9qDEHqi6ZTfoGBuU2pnErYHD1uGOKLDBSFQoX0xWPT9PG5aKhUXihUQrcwzvThN3zBTD6fPKCH3GZqO/PhEbKsFyLTEGzy+nr0YYApPhFiEuZoo+DnN5f4FWpOLYE7mrmX1Rf6VAibfCrsaEd9oU8fGaZgky/RXML/T80EBzb55rWVKe6FhEsz8NqKTX4OWTYjJHSyTFtV5doaKOgHRpgS2OQr11amlFEUEqIQXltdkzeaRRw1IcmVwyg2eby2IpD6om4jTSGZOWEIr63zJj8AqW0bYYRk6mSDTJMXEGJshBQScLIRssmHbIQXktHJ/sRra6XJh2wkJCRvJ/uMTd5dW5GQjUSFkGiTJ+kU6mjyJJ218NxVdnQHnUKL/DaVpVNIH5meMn1T606Kbts6nUJ/xyrUYhVq8XVCP7+8VY0hVujsAAAAAElFTkSuQmCC" y="908.5938"/><image height="48" width="48" x="807.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADNUlEQVR4Xu1YbXHrMBA0BUMIBEMohEAIhEAIhEAIhEAIhEAoBDHojm6yXd+dLLl9M+/Nm+yPTm2fTnt7H5YzlX8Mk7/xt/Em1MN/ROjxeFwul9Pp9PHC8XjEJW7e73dvPYzdhMADu04DAMXr9erX97CDEKgsy+K37WGe5120RgmlqkCD8/mM/W63G/4iWbhE4kDCWSKS5/PpnWboE4Kjw+Gg3sGjWyVYBXKOWXdV6RJCmtQpAh1xqgAtoTRBS2+xxhYhRKls4NpbjMFFtR3SFiHNVIzMkqJlDnvc0Vr5rDBjcsI/djNFk5BWsWMDd2mNE6humKG67RJES+VEAzxSh4qcEETmYpcpp38L4EQzNIGtRWA0gB91S+SE4MKWISN6X4nSAHvfKmJbGTQkeiZLh4SQ7qoFiEzpfkhELE/YxOGpGVfnaSUlhFgfLggGN1VhUndlXSsGLfMivZJO8IQQZdDIIAY3sCLdAMvZ4J5yMqVZ89Yqqd7XRLTqkUDoNHZVWCQ2RO4elUiIvpS+skzDctBuQgH4x9j1hZh3T4gFpK2h4z8WcoQSygvlhSi2J8T0qyPN17dpGxgEtHcVbWCZxvD8BmwlJcT1sSBS6Bz3zyoY4Q8J0fvGyFd0A2Dn70iZvY9KnXV2Z2pUqIN2QMueBjGhnhDrl772EtL5mVZ0a7IY/C02iE4/rm+lgND+mrKMlPabwOAJqR7UUw9GcXIQ7kA3ZQKoPKl+yRq2AEeRdk0ra5FNHMR6dGm9fxJCHNbz62jn3peRkw4eBeVEe7sXXJrNkhIq0repSIaP+qnqDhu41LE+1aj00hDHD5ETSket2zsCFCFJPH4olt4HWk6oiEhINpV30RPz+vMUArhPORhAzg1hiCYhPQBpf4KcnVaP9acF/NPaBko8KjYaM6JJqKz1WNpHxC6Mlr/bwBahsq5lyN4SYwOMapBTh1AJ/YX0DbpGVWklpXM5ok+orI+khqV+/aTMoOI5fA91m4sYIlRqhepbU4G9oUQ6bww8OIxglJAB0bdoRYAipNrbCvsIGaAWgm4xg1ooO/dzwDh+QkgBAVBJUG7vvGnht4T+ON6EengT6uELC5tAI/cl/6cAAAAASUVORK5CYII=" y="908.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="708.5" y="969.5889">«Annotation»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="708.5" y="985.8857">JAXB</text></g><g id="elem_GMN13"><path d="M514,93.5938 L514,164.125 A0,0 0 0 0 514,164.125 L784,164.125 A0,0 0 0 0 784,164.125 L784,133.0938 L818.75,129.0938 L784,125.0938 L784,103.5938 L774,93.5938 L514,93.5938 A0,0 0 0 0 514,93.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M774,93.5938 L774,103.5938 L784,103.5938 L774,93.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><ellipse cx="525.5" cy="106.2266" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="67" x="532" y="110.6606">Repository</text><ellipse cx="525.5" cy="121.3594" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="532" y="125.7935">Name (@Named)</text><ellipse cx="525.5" cy="136.4922" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="215" x="532" y="140.9263">Service (via FW @DomainService)</text><ellipse cx="525.5" cy="151.625" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="237" x="532" y="156.0591">Component (via FW @DomainObject)</text></g><g id="elem_GMN16"><path d="M676,240.5938 L676,341.3906 A0,0 0 0 0 676,341.3906 L782,341.3906 A0,0 0 0 0 782,341.3906 L782,295.0938 L816.96,291.0938 L782,287.0938 L782,250.5938 L772,240.5938 L676,240.5938 A0,0 0 0 0 676,240.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M772,240.5938 L772,250.5938 L782,250.5938 L772,240.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><ellipse cx="687.5" cy="253.2266" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="694" y="257.6606">Cardinality</text><ellipse cx="687.5" cy="268.3594" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="73" x="694" y="272.7935">TableName</text><ellipse cx="687.5" cy="283.4922" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="694" y="287.9263">Column</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="691" y="296.125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="698" y="303.0591">Name</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="691" y="311.2578"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="698" y="318.1919">Length</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="691" y="326.3906"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="698" y="333.3247">Type</text></g><g id="elem_GMN19"><path d="M6,402.5938 L6,594.1875 A0,0 0 0 0 6,594.1875 L200,594.1875 A0,0 0 0 0 200,594.1875 L200,502.5938 L234.99,498.5938 L200,494.5938 L200,412.5938 L190,402.5938 L6,402.5938 A0,0 0 0 0 6,402.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M190,402.5938 L190,412.5938 L200,412.5938 L190,402.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><ellipse cx="17.5" cy="415.2266" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="39" x="24" y="419.6606">Entitiy</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="21" y="427.8594"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="54" x="28" y="434.7935">Property</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="21" y="442.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="28" y="449.9263">Collection</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="21" y="458.125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="28" y="465.0591">Action</text><ellipse cx="17.5" cy="475.7578" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="47" x="24" y="480.1919">Factory</text><ellipse cx="17.5" cy="490.8906" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="24" y="495.3247">Layout</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="21" y="503.5234"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="122" x="28" y="510.4575">Property Sequence</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="28" y="525.5903">(Table and Forms)</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="21" y="533.7891"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="157" x="28" y="540.7231">Action Sequence (Menu)</text><rect fill="#000000" height="3.5" style="stroke:#000000;stroke-width:0.0;" width="3.5" x="21" y="548.9219"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108" x="28" y="555.856">Styles (cssClass)</text><ellipse cx="17.5" cy="566.5547" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="24" y="570.9888">ViewModel</text><ellipse cx="17.5" cy="581.6875" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="24" y="586.1216">Mixin</text></g><g id="elem_GMN22"><path d="M50.5,655.5938 L50.5,816.9219 A0,0 0 0 0 50.5,816.9219 L197.5,816.9219 A0,0 0 0 0 197.5,816.9219 L197.5,740.0938 L232.38,736.0938 L197.5,732.0938 L197.5,665.5938 L187.5,655.5938 L50.5,655.5938 A0,0 0 0 0 50.5,655.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M187.5,655.5938 L187.5,665.5938 L197.5,665.5938 L187.5,655.5938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><ellipse cx="62" cy="668.2266" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="114" x="68.5" y="672.6606">autoComplete…()</text><ellipse cx="62" cy="683.3594" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="71" x="68.5" y="687.7935">choices…()</text><ellipse cx="62" cy="698.4922" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="68.5" y="702.9263">default…()</text><ellipse cx="62" cy="713.625" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="68.5" y="718.0591">disable…()</text><ellipse cx="62" cy="728.7578" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="68.5" y="733.1919">get…()</text><ellipse cx="62" cy="743.8906" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="68.5" y="748.3247">hide…()</text><ellipse cx="62" cy="759.0234" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="68.5" y="763.4575">iconName()</text><ellipse cx="62" cy="774.1563" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="68.5" y="778.5903">set…()</text><ellipse cx="62" cy="789.2891" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="68.5" y="793.7231">title()</text><ellipse cx="62" cy="804.4219" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="73" x="68.5" y="808.856">validate…()</text></g><g id="elem_GMN25"><path d="M486.5,911.0938 L486.5,966.4922 A0,0 0 0 0 486.5,966.4922 L663.5,966.4922 A0,0 0 0 0 663.5,966.4922 L663.5,942.5938 L698.25,938.5938 L663.5,934.5938 L663.5,921.0938 L653.5,911.0938 L486.5,911.0938 A0,0 0 0 0 486.5,911.0938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M653.5,911.0938 L653.5,921.0938 L663.5,921.0938 L653.5,911.0938 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><ellipse cx="498" cy="923.7266" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="125" x="504.5" y="928.1606">@XmlAccessorType</text><ellipse cx="498" cy="938.8594" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="144" x="504.5" y="943.2935">@XmlJavaTypeAdapter</text><ellipse cx="498" cy="953.9922" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="504.5" y="958.4263">@XmlRootElement</text></g><!--MD5=[cc78246f35cf4a7527ee40fb15455c56]
+entity MM--><g id="elem_MM"><rect fill="#F1F1F1" height="52.5938" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="652" x="967" y="912.0938"/><text fill="#000000" font-family="monospace" font-size="14" lengthAdjust="spacing" textLength="632" x="977" y="935.0889">(Cannot decode: https://causeway.apache.org/_/img/home/causeway-logo-56x64.png)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="977" y="951.3857">MetaModel</text></g><g id="elem_MMV"><ellipse cx="1829.1144" cy="938.5166" fill="#F1F1F1" rx="90.1144" ry="20.4229" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="1758.1144" y="941.3633">MetaModelValidation</text></g><!--MD5=[c42ed81cef7fdd2e33758127945b9a5b]
+entity UI--><g id="elem_UI"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="112" x="1125" y="1105.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="1135" y="1128.5889">WicketViewer</text></g><!--MD5=[f9ba5bf973e7832d2ce5ed59077b93f7]
+entity DB--><g id="elem_DB"><path d="M1272.5,1111.0938 C1272.5,1101.0938 1293,1101.0938 1293,1101.0938 C1293,1101.0938 1313.5,1101.0938 1313.5,1111.0938 L1313.5,1136.3906 C1313.5,1146.3906 1293,1146.3906 1293,1146.3906 C1293,1146.3906 1272.5,1146.3906 1272.5,1136.3906 L1272.5,1111.0938 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M1272.5,1111.0938 C1272.5,1121.0938 1293,1121.0938 1293,1121.0938 C1293,1121.0938 1313.5,1121.0938 1313.5,1111.0938 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="21" x="1282.5" y="1138.0889">DB</text></g><!--MD5=[bd5f618b12816bd4b75416c1e6e531a6]
+entity REST--><g id="elem_REST"><ellipse cx="1393" cy="1123.5938" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="1366.5" y="1153.5889">Restful</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="1366.5" y="1169.8857">Objects</text></g><!--MD5=[7729133bc4d8f07007057c281ea6b787]
+link SPRING to PERS--><!--MD5=[706b3fa7d23d4a811596b74b23260dc4]
+link PERS to FW--><!--MD5=[89a471485f186077fea664cd3d125d3c]
+link FW to SM--><!--MD5=[74e9011bddaefe058ac377b5ac9a93d7]
+link SM to JAXB--><!--MD5=[9dd1521c94636fe7682b9266cec14db5]
+link SPRING to MM--><g id="link_SPRING_MM"><path d="M935.28,141.0738 C1045.16,163.4438 1272,218.3238 1272,290.0938 C1272,290.0938 1272,290.0938 1272,737.0938 C1272,797.5538 1281.56,867.7138 1287.78,906.9538 " fill="none" id="SPRING-to-MM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1288.6,912.0438,1291.1332,902.5263,1287.8128,907.1061,1283.233,903.7857,1288.6,912.0438" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0a42f9afd69ef63bbde40d40a0c42f9d]
+link PERS to MM--><g id="link_PERS_MM"><path d="M911.33,341.8438 C924.58,360.7438 939.65,382.5438 953,402.5938 C1079.32,592.3338 1223.8,825.2638 1274.37,907.2838 " fill="none" id="PERS-to-MM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1277.27,912.0038,1275.9689,902.2412,1274.6535,907.743,1269.1517,906.4276,1277.27,912.0038" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d2e4c7959adebeda0d40e397e8065f8b]
+link FW to MM--><g id="link_FW_MM"><path d="M735.31,549.2638 C804.53,575.5938 885.98,611.6338 953,655.5938 C1056.57,723.5238 1057.83,770.7738 1155,847.5938 C1183.54,870.1538 1217.79,892.5138 1245.02,909.3038 " fill="none" id="FW-to-MM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1249.33,911.9538,1243.7539,903.8355,1245.0693,909.3373,1239.5675,910.6527,1249.33,911.9538" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1d4bff5dacc6c0c7630d287d78e39b9d]
+link SM to MM--><g id="link_SM_MM"><path d="M796.24,797.1138 C929.77,834.8738 1095.59,881.7638 1197.84,910.6837 " fill="none" id="SM-to-MM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1202.66,912.0438,1195.0829,905.7519,1197.8476,910.6871,1192.9123,913.4518,1202.66,912.0438" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[829cfe65b9924e55b133a22e901fa133]
+link JAXB to MM--><g id="link_JAXB_MM"><path d="M865.84,938.5938 C897.78,938.5938 929.72,938.5938 961.66,938.5938 " fill="none" id="JAXB-to-MM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="966.79,938.5938,957.79,934.5938,961.79,938.5938,957.79,942.5938,966.79,938.5938" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a09e5ed0f1f7fd6f17b6edf166cc2cee]
+reverse link MM to MMV--><g id="link_MM_MMV"><path d="M1624.2,938.5938 C1666.1,938.5938 1705.82,938.5938 1738.92,938.5938 " fill="none" id="MM-backto-MMV" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1619.08,938.5938,1628.08,942.5938,1624.08,938.5938,1628.08,934.5938,1619.08,938.5938" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="51" x="1651.5" y="901.6606">perform</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="1641.5" y="916.7935">consistency</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1662.5" y="931.9263">check</text></g><!--MD5=[38c90023ccd9cda482e2b61f2a6683a5]
+link MM to UI--><g id="link_MM_UI"><path d="M1270.04,965.2938 C1254.88,983.0738 1235.26,1007.7438 1221,1031.5938 C1207.64,1053.9338 1196.14,1081.5338 1188.94,1100.4438 " fill="none" id="MM-to-UI" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1187.03,1105.5338,1193.9354,1098.5113,1188.7856,1100.8521,1186.4448,1095.7023,1187.03,1105.5338" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="1222" y="1044.6606">generate</text></g><!--MD5=[06c4c5ab6cf117f6b9b1627737c6ab6e]
+link MM to DB--><g id="link_MM_DB"><path d="M1291.61,965.1338 C1290.57,987.2238 1289.42,1020.0138 1290,1048.5938 C1290.32,1064.2838 1291.01,1081.8238 1291.66,1095.8938 " fill="none" id="MM-to-DB" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1291.89,1100.9038,1295.4748,1091.7305,1291.6617,1095.909,1287.4832,1092.0958,1291.89,1100.9038" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="1291" y="1044.6606">generate</text></g><!--MD5=[02cf52fb78e243ad69faf0c26eb3ab70]
+link MM to REST--><g id="link_MM_REST"><path d="M1311.92,965.3838 C1324.69,983.4038 1341.43,1008.3238 1354,1031.5938 C1368.36,1058.1838 1381.39,1091.1738 1388.14,1109.2238 " fill="none" id="MM-to-REST" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1390.03,1114.3338,1390.6679,1104.5056,1388.2995,1109.6428,1383.1623,1107.2744,1390.03,1114.3338" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="1363" y="1044.6606">generate</text></g><!--MD5=[4ce589144677737c29d039fa2b2762e2]
+@startuml
+!include <logos/java>
+!include <tupadr3/font-awesome/at>
+!include <tupadr3/font-awesome/envira>
+!include <office/Databases/database_cube>
+!include <material/xml.puml>
+
+legend top
+|= notation |= explanation |
+| ""__underline__"" | DDD Pattern|
+endlegend
+
+together {
+    rectangle "<$database_cube><$at>\n<<Annotation>>\nORM (JPA/JDO)" as PERS
+    rectangle "<$envira><$at>\n<<Annotation>>\nSpring" as SPRING
+    rectangle "<img:https://causeway.apache.org/_/img/home/causeway-logo-79x64.png><$at>\n<<Annotation>>\nApache Causeway" as FW
+    rectangle "<img:https://causeway.apache.org/_/img/home/causeway-logo-79x64.png><$java>\n<<Supporting Methods>>\nApache Causeway" as SM
+    rectangle "<$java><$ma_xml><$at>\n<<Annotation>>\nJAXB" as JAXB
+
+    SPRING -[hidden]- PERS
+    PERS -[hidden]- FW
+    FW -[hidden]- SM
+    SM -[hidden]- JAXB
+
+    note left of SPRING
+        * __Repository__
+        * Name (@Named)
+        * Service (via FW @DomainService)
+        * Component (via FW @DomainObject)
+    end note
+
+    note left of PERS
+        * Cardinality
+        * TableName
+        * Column
+        ** Name
+        ** Length
+        ** Type
+    end note
+
+    note left of FW
+        * __Entitiy__
+        ** Property
+        ** Collection
+        ** Action
+        * __Factory__
+        * Layout
+        ** Property Sequence
+            (Table and Forms)
+        ** Action Sequence (Menu)
+        ** Styles (cssClass)
+        * ViewModel
+        * Mixin
+    end note
+
+    note left of SM
+        * autoComplete…()
+        * choices…()
+        * default…()
+        * disable…()
+        * get…()
+        * hide…()
+        * iconName()
+        * set…()
+        * title()
+        * validate…()
+    end note
+
+    note left of JAXB
+        * @XmlAccessorType
+        * @XmlJavaTypeAdapter
+        * @XmlRootElement
+    end note
+}
+
+rectangle "<img:https://causeway.apache.org/_/img/home/causeway-logo-56x64.png>\nMetaModel" as MM
+
+SPRING -> MM
+PERS -> MM
+FW -> MM
+SM -> MM
+JAXB -> MM
+
+(MetaModelValidation) as MMV
+MM <- MMV : perform \n consistency \n check
+
+rectangle "WicketViewer" as UI
+database DB
+interface "Restful\nObjects" as REST
+MM -d-> UI : generate
+MM -d-> DB : generate
+MM -d-> REST : generate
+@enduml
+
+@startuml
+sprite $java [51x69/16] {
+000000000000000000000000000000004000000000000000000
+000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000700000000000000000
+000000000000000000000000000000000700000000000000000
+000000000000000000000000000000000700000000000000000
+000000000000000000000000000000003700000000000000000
+000000000000000000000000000000007700000000000000000
+000000000000000000000000000000007700000000000000000
+000000000000000000000000000000077500000000000000000
+000000000000000000000000000000177000000000000000000
+000000000000000000000000000000777000000000000000000
+000000000000000000000000000007770000000000000000000
+000000000000000000000000000077710000000000000000000
+000000000000000000000000000777500000000000000000000
+000000000000000000000000027776000000000110000000000
+000000000000000000000000677760000000176000000000000
+000000000000000000000007777600000037700000000000000
+000000000000000000000077773000002775000000000000000
+000000000000000000001777700000077700000000000000000
+000000000000000000027777000002777000000000000000000
+000000000000000000177770000057770000000000000000000
+000000000000000000777700000477700000000000000000000
+000000000000000007777200000777000000000000000000000
+000000000000000007777000007777000000000000000000000
+000000000000000037772000007774000000000000000000000
+000000000000000047770000007774000000000000000000000
+000000000000000017770000017777000000000000000000000
+000000000000000007770000007777100000000000000000000
+000000000000000007770000007777700000000000000000000
+000000000000000000775000006777760000000000000000000
+000000000000000000377000000777771000000000000000000
+000000000000000000067400000377777000000000000000000
+000000000000000000007700000077777000000000000000000
+000000000000000000000770000007777100000000000000000
+000000000000000000000075000001777000000000000000000
+000000000000000000000007000000777000000000000000000
+000000000000000000000000700000770000000000000000000
+000000000000000000000000010000730000000000047850000
+000000000000278600000000000007200000000001000588800
+000000000588600000000000000020000000000000000008880
+000000088880000000000000000000000000000100000001883
+000000888880000000000000000000002578880000000000888
+000000688888888887777888888888888885000000000000888
+000000000148888888888888888863100000000000000000888
+000000000000000000000000000000000000000000000007880
+000000000000000000000000000000000000000000000008870
+000000000000080000000000000000000000000000000088800
+000000000004880000000000000000000010000000000885000
+000000000008888752000000000036888888000000038800000
+000000000000888888888888888888888888600000880000000
+000000000000003888888888888888883000000071000000000
+000000000000000000000111100000000000000000000000000
+000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000
+000000000000008800000000000000000000000000000000000
+000000000000088888741000000167888700000000000000000
+000000000000028888888888888888888888000000000000000
+000000000000000888888888888888888800000000000000000
+000000047760000000388888888887100000000000000000000
+000088800000000000000000000000000000000000000002000
+008880000000000000000000000000000000000000000008000
+388870000000000000000000000000000000000000000780000
+888888810000000000000000000000000000000007888000000
+088888888888752000000000000000025788888888000000005
+000001788888888888888888888888888888840000000001880
+000000000000000246788888887530000000000000002888200
+000000000000000000000000000000000000000078888800000
+000000000028862000000000000000004888888888400000000
+000000000000000158888888888888888885100000000000000
+}
+sprite $at [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000379BBBA9740000000000000000000
+000000000000000039FFFFFFFFFFFFB60000000000000000
+000000000000003CFFFFFFFFFFFFFFFFE600000000000000
+00000000000009FFFFFFB865678AEFFFFFC2000000000000
+000000000002DFFFFB4000000000028EFFFF400000000000
+00000000003EFFFC40000000000000008FFFF50000000000
+0000000002EFFF80000000000000000003EFFF4000000000
+000000000DFFF50000028CFFFD820001102EFFE100000000
+000000009FFF5000019FFFFFFFFF70AFFD02FFFA00000000
+00000003FFF800003EFFFFFFFFFFF7EFFB005FFF30000000
+0000000BFFC00003FFFFFC7558EFFFFFF8000BFFB0000000
+0000003FFF40001EFFFD4000001CFFFFF50003FFF1000000
+0000009FFB0000BFFFC100000002FFFFF20000DFF6000000
+000000EFF50004FFFD0000000000AFFFF000008FFB000000
+000003FFF0000CFFF300000000006FFFC000004FFE000000
+000006FFB0003FFFB000000000005FFF9000000FFF100000
+000009FF80008FFF4000000000005FFF6000000FFF300000
+00000AFF6000CFFF0000000000007FFF2000000EFF400000
+00000BFF6000EFFC0000000000009FFF0000000CFF400000
+00000BFF6000FFFA000000000000EFFC0000000DFF300000
+00000AFF7001FFF9000000000003FFF90000000FFF200000
+000008FF9001FFF900000000000BFFF60000003FFF000000
+000005FFD000FFFC00000000005FFFF30000009FFB000000
+000001FFF200DFFF1000000002EFFFF0000003FFF6000000
+000000CFF8009FFF900000002EFFFFE000003EFFD0000000
+0000006FFE102FFFF9000007FFFFFFF1004AFFFF30000000
+0000000EFF8009FFFFFBACFFFFC8FFFFEFFFFFF400000000
+00000007FFF200CFFFFFFFFFFB12FFFFFFFFFC2000000000
+00000000EFFD1008FFFFFFFE60004DFFFFEA400000000000
+000000004FFFB000158A9840000000233100000000000000
+0000000008FFFC1000000000000000000330000000000000
+00000000009FFFE400000000000000008FF3000000000000
+000000000009FFFFB30000000000006DFFFB000000000000
+0000000000006FFFFFC7300000048EFFFFC2000000000000
+00000000000002BFFFFFFFEDEFFFFFFFF700000000000000
+0000000000000004BFFFFFFFFFFFFFE81000000000000000
+0000000000000000027BFFFFFFFD95000000000000000000
+000000000000000000000134310000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA AT>> White
+sprite $envira [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+009CCBAA9864200000000000000000000000000000000000
+007FFFFFFFFFFFEC95200000000000000000000000000000
+003FFFFFFFFFFFFFFFFE9500000000000000000000000000
+000FFFFFFFFFFFFFFFFFFFFA300000000000000000000000
+000BFFFE47EFFFFFFFFFFFFFFC5000000000000000000000
+0006FFFFF607FFFFFFFFFFFFFFFC20000000000000000000
+0002FFFFFFA01BFFFFFFFFFFFFFFF7000000000000000000
+0000EFFFFFFB007FFFFFFFFFFFFFFFB00000000000000000
+0000AFFFFFFFB004FFFFFFFFFFFFFFFD1000000000000000
+00006FFFFFFFF8003FFFFFFFFFFFFFFFD100000000000000
+00003FFFFFFFFF4003FFFFFFFFFFFFFFFD10000000000000
+00000FFFFFFFFFE0005FFFFFFFFFFFFFFFB0000000000000
+00000BFFFFFFFFF80009FFFFFFFFFFFFFFF6000000000000
+000007FFFFFFFFFF2000DFFFFFFFFFFFFFFE000000000000
+000003FFFFFFFFFFB0003FFFFFFFFFFFFFFF600000000000
+000000FFFFFFFFFFF3000AFFFFFFFFFFFFFFD00000000000
+000000BFFFFFFFFFFC0001FFFFFFFFFFFFFFF30000000000
+0000007FFFFFFFFFFF40008FFFFFFFFFFFFFF80000000000
+0000003FFFFFFFFFFFD0000EFFFFFFFFFFFFFD0000000000
+0000000EFFFFFFFFFFF60006FFFFFFFFFFFFFF1000000000
+00000009FFFFFFFFFFFE0000DFFFFFFFFFFFFF4000000000
+00000004FFFFFFFFFFFF90004FFFFFFFFFFFFF6000000000
+00000000EFFFFFFFFFFFF3000BFFFFFFFFFFFF8000000000
+000000008FFFFFFFFFFFFD0003FFFFFFFFFFFF9000000000
+000000001FFFFFFFFFFFFF70008FFFFFFFFFFF9000000000
+0000000009FFFFFFFFFFFFF4000EFFFFFFFFFF9000000000
+0000000002FFFFFFFFFFFFFE1004FFFFFFFFFF8000000000
+00000000008FFFFFFFFFFFFFC000AFFFFFFFFF7000000000
+00000000000DFFFFFFFFFFFFFA000DFFFFFFFF6000000000
+000000000002FFFFFFFFFFFFFFA002FFFFFFFF5000000000
+0000000000004FFFFFFFFFFFFFFB006FFFFFFF3000000000
+00000000000004FFFFFFFFFFFFFFD307FFFFFF1000000000
+000000000000003EFFFFFFFFFFFFFF815FFFFF0000000000
+0000000000000001BFFFFFFFFFFFFFFF95CFFD0000000000
+000000000000000006EFFFFFFFFFFFFFFFDEFB0000000000
+00000000000000000007EFFFFFFFFFFFFFFFFB0000000000
+0000000000000000000005AEFFFFFFFFFEB9DF9000000000
+0000000000000000000000002456654300001DF900000000
+00000000000000000000000000000000000001DF80000000
+000000000000000000000000000000000000001DF8000000
+0000000000000000000000000000000000000001DF800000
+00000000000000000000000000000000000000001DF80000
+000000000000000000000000000000000000000001DF8000
+000000000000000000000000000000000000000000155000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA ENVIRA>> White
+sprite $database_cube [42x48/16] {
+000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000
+000000000000000000002400000000000000000000
+00000000000000000018AA94000000000000000000
+000000000000000015AAAAAA720000000000000000
+00000000000000006AAAAAAAA80000000000000000
+0000000000000275027AAAA9302740000000000000
+0000000000015AAA92039A6016AAA8200000000000
+000000000039AAAAAA810105AAAAAAA71000000000
+00000000105AAAAAAA820116AAAAAAA71000000000
+00000007A4007AAAA4008A3018AAAA2029A2000000
+0000059AAA940285106AAAA830384027AAAA820000
+00029AAAAAAA800029AAAAAAA60004AAAAAAAA5000
+00005AAAAAAA302006AAAAAA8102017AAAAAA82000
+0083027AAA6016A94027AA94027A83038AA9402720
+00AA80028105AAAAA91037006AAAAA70056006AA20
+00AAAA60018AAAAAAAA40019AAAAAAA920049AAA20
+00AAAAA03017AAAAA94024017AAAAA930207AAAA20
+00AAAAA0A92029AA5018AA93029AA4007A07AAAA20
+009AAAA0AAA6104216AAAAAA7204105AAA07AAAA10
+0006AAA0AAAAA4007AAAAAAAA8002AAAAA07AA8100
+006027A0AAAAAA03027AAAA930113AAAAA07930410
+00A93040AAAAAA0A72049A6015A33AAAAA03027A20
+00AAA9104AAAAA0AAA700103AAA33AAAA6006AAA20
+00AAAAA0016AAA0AAAA9308AAAA33AA82007AAAA20
+00AAAAA0A4018A0AAAAA60AAAAA33A401807AAAA20
+00AAAAA0AA83030AAAAA60AAAAA30117AA07AAAA20
+0059AAA0AAAA7107AAAA60AAAA8104AAAA07AAA600
+00006AA0AAAAAA0018AA60AAA3003AAAAA07A81000
+00940270AAAAAA08304960A512723AAAAA05402720
+00AA81009AAAAA0AA81020105AA33AAAAA0006AA20
+00AAAA6015AAAA0AAAA60049AAA33AAA71049AAA20
+00AAAAA03017AA0AAAAA60AAAAA33A830307AAAA20
+00AAAAA0A920290AAAAA60AAAAA334008A07AAAA20
+009AAAA0AAA61009AAAA60AAAAA2005AAA07AAAA20
+0006AAA0AAAAA4007AAA60AAA8202AAAAA07AA8100
+000027A0AAAAAA04028A60AA30113AAAAA07930000
+00000040AAAAAA0A7204506015A33AAAAA03000000
+000000005AAAAA0AAA700004AAA33AAAA700000000
+00000000016AAA0AAAA9308AAAA33AA83000000000
+0000000000029A0AAAAA60AAAAA339400000000000
+000000000000030AAAAA60AAAAA311000000000000
+0000000000000006AAAA60AAAA8100000000000000
+000000000000000008AA60AAA30000000000000000
+0000000000000000003960A5000000000000000000
+000000000000000000002010000000000000000000
+000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000
+}
+
+sprite $ma_xml [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+00000000000000000000000005EA72000000000000000000
+00000000000000000000000008FFF8000000000000000000
+0000000000000000000000000CFFF5000000000000000000
+0000000000000000000000000FFFF1000000000000000000
+0000000000000000000000002FFFE0000000000000000000
+0000000000000005000000006FFFB0005000000000000000
+000000000000005F000000009FFF7000F500000000000000
+00000000000005FF00000000DFFF4000FF50000000000000
+0000000000005FFF00000000FFFF1000FFF5000000000000
+000000000005FFFF00000003FFFD0000FFFF500000000000
+00000000005FFFFF00000007FFFA0000FFFFF50000000000
+0000000005FFFFF50000000AFFF600005FFFFF5000000000
+000000005FFFFF500000000EFFF3000005FFFFF500000000
+00000005FFFFF5000000001FFFF00000005FFFFF50000000
+0000005FFFFF50000000004FFFC000000005FFFFF5000000
+000005FFFFF500000000008FFF90000000005FFFFF500000
+00005FFFFF500000000000BFFF500000000005FFFFF50000
+0005FFFFF5000000000000EFFF2000000000005FFFFF5000
+0005FFFFF5000000000002FFFF0000000000005FFFFF5000
+00005FFFFF500000000005FFFB000000000005FFFFF50000
+000005FFFFF50000000009FFF800000000005FFFFF500000
+0000005FFFFF500000000CFFF40000000005FFFFF5000000
+00000005FFFFF50000000FFFF1000000005FFFFF50000000
+000000005FFFFF5000003FFFE000000005FFFFF500000000
+0000000005FFFFF500006FFFA00000005FFFFF5000000000
+00000000005FFFFF0000AFFF70000000FFFFF50000000000
+000000000005FFFF0000DFFF30000000FFFF500000000000
+0000000000005FFF0001FFFF00000000FFF5000000000000
+00000000000005FF0004FFFC00000000FF50000000000000
+000000000000005F0007FFF900000000F500000000000000
+0000000000000005000BFFF6000000005000000000000000
+0000000000000000000EFFF2000000000000000000000000
+0000000000000000002FFFF0000000000000000000000000
+0000000000000000005FFFC0000000000000000000000000
+0000000000000000008FFF80000000000000000000000000
+00000000000000000027AE50000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+skinparam folderBackgroundColor<<MA XML>> White
+
+legend top
+|= notation |= explanation |
+| ""__underline__"" | DDD Pattern|
+endlegend
+
+together {
+    rectangle "<$database_cube><$at>\n<<Annotation>>\nORM (JPA/JDO)" as PERS
+    rectangle "<$envira><$at>\n<<Annotation>>\nSpring" as SPRING
+    rectangle "<img:https://causeway.apache.org/_/img/home/causeway-logo-79x64.png><$at>\n<<Annotation>>\nApache Causeway" as FW
+    rectangle "<img:https://causeway.apache.org/_/img/home/causeway-logo-79x64.png><$java>\n<<Supporting Methods>>\nApache Causeway" as SM
+    rectangle "<$java><$ma_xml><$at>\n<<Annotation>>\nJAXB" as JAXB
+
+    SPRING -[hidden]- PERS
+    PERS -[hidden]- FW
+    FW -[hidden]- SM
+    SM -[hidden]- JAXB
+
+    note left of SPRING
+        * __Repository__
+        * Name (@Named)
+        * Service (via FW @DomainService)
+        * Component (via FW @DomainObject)
+    end note
+
+    note left of PERS
+        * Cardinality
+        * TableName
+        * Column
+        ** Name
+        ** Length
+        ** Type
+    end note
+
+    note left of FW
+        * __Entitiy__
+        ** Property
+        ** Collection
+        ** Action
+        * __Factory__
+        * Layout
+        ** Property Sequence
+            (Table and Forms)
+        ** Action Sequence (Menu)
+        ** Styles (cssClass)
+        * ViewModel
+        * Mixin
+    end note
+
+    note left of SM
+        * autoComplete…()
+        * choices…()
+        * default…()
+        * disable…()
+        * get…()
+        * hide…()
+        * iconName()
+        * set…()
+        * title()
+        * validate…()
+    end note
+
+    note left of JAXB
+        * @XmlAccessorType
+        * @XmlJavaTypeAdapter
+        * @XmlRootElement
+    end note
+}
+
+rectangle "<img:https://causeway.apache.org/_/img/home/causeway-logo-56x64.png>\nMetaModel" as MM
+
+SPRING -> MM
+PERS -> MM
+FW -> MM
+SM -> MM
+JAXB -> MM
+
+(MetaModelValidation) as MMV
+MM <- MMV : perform \n consistency \n check
+
+rectangle "WicketViewer" as UI
+database DB
+interface "Restful\nObjects" as REST
+MM -d-> UI : generate
+MM -d-> DB : generate
+MM -d-> REST : generate
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 18:12:26 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

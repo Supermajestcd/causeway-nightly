@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="353px" preserveAspectRatio="none" style="width:550px;height:353px;background:#FFFFFF;" version="1.1" viewBox="0 0 550 353" width="550px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" id="_title" style="stroke:none;stroke-width:1.0;" width="157" x="189.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="147" x="194.5" y="22.9951">Other - Containers</text><!--MD5=[2f0bbfd65c547b9f81ff188516865d5b]
+cluster Other\n[Software System]--><g id="cluster_Other\n[Software System]"><path d="M8.5,43.2969 L156.5,43.2969 A3.75,3.75 0 0 1 159,45.7969 L166,81.8906 L540.5,81.8906 A2.5,2.5 0 0 1 543,84.3906 L543,318.7969 A2.5,2.5 0 0 1 540.5,321.2969 L8.5,321.2969 A2.5,2.5 0 0 1 6,318.7969 L6,45.7969 A2.5,2.5 0 0 1 8.5,43.2969 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="166" y1="81.8906" y2="81.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="45" x="61" y="58.292">Other</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="147" x="10" y="74.5889">[Software System]</text></g><!--MD5=[773709cb2207c097691e7e7d3d2cc787]
+entity 2--><g id="elem_2"><rect fill="#438DD5" height="68.8906" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="220" x="22" y="165.7969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="194" x="32" y="190.6484">Apache Causeway Ext</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="164" x="50" y="209.2734">- Command Replay</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="138" x="63" y="222.3291">[Container: packaging: pom]</text></g><!--MD5=[5721696d2af8d327c8f4e7ea88061d17]
+entity 3--><g id="elem_3"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="220" x="307" y="217.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="194" x="317" y="242.1484">Apache Causeway Ext</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="196" x="319" y="260.7734">- Command Replay for</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="68" x="383" y="279.3984">Primary</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="353" y="292.4541">[Container: packaging: jar]</text></g><!--MD5=[ca8cb0432c9090f8973c99138b4c3ca0]
+entity 4--><g id="elem_4"><rect fill="#438DD5" height="87.5156" rx="2.5" ry="2.5" style="stroke:#2E6295;stroke-width:0.5;" width="220" x="307" y="94.2969"/><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="194" x="317" y="119.1484">Apache Causeway Ext</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="196" x="319" y="137.7734">- Command Replay for</text><text fill="#FFFFFE" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="93" x="370.5" y="156.3984">Secondary</text><text fill="#FFFFFE" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="128" x="353" y="169.4541">[Container: packaging: jar]</text></g><!--MD5=[eeb69082328d10abd3b14fdeede0d8a3]
+link 2 to 3--><g id="link_2_3"><path d="M242.01,223.7969 C261.53,227.9969 281.93,232.3969 301.59,236.6369 " fill="none" id="2-to-3" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="306.58,237.7069,298.6295,231.894,301.6931,236.6495,296.9376,239.7131,306.58,237.7069" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="273" y="228.5791"> </text></g><!--MD5=[d209f2622dd5d3103b9c9b4670e2d6db]
+link 2 to 4--><g id="link_2_4"><path d="M242.01,176.4169 C261.53,172.1369 281.93,167.6669 301.59,163.3569 " fill="none" id="2-to-4" style="stroke:#707070;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#707070" points="306.58,162.2669,296.9321,160.2876,301.6961,163.3379,298.6457,168.1019,306.58,162.2669" style="stroke:#707070;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="3" x="273" y="166.5791"> </text></g><rect fill="none" height="16.2969" id="_caption" style="stroke:none;stroke-width:1.0;" width="174" x="181" y="328.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="181" y="341.292">Artifact Hierarchy (Maven)</text><!--MD5=[7de4c96432f28ec7858b3c969d0f9c5a]
+@startuml
+title Other - Containers
+caption Artifact Hierarchy (Maven)
+
+skinparam {
+  shadowing false
+  arrowFontSize 10
+  defaultTextAlignment center
+  wrapWidth 200
+  maxMessageSize 100
+}
+hide stereotype
+left to right direction
+skinparam rectangle<<2>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<3>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+skinparam rectangle<<4>> {
+  BackgroundColor #438dd5
+  FontColor #fffffe
+  BorderColor #2E6295
+}
+package "Other\n[Software System]" {
+  rectangle "==Apache Causeway Ext - Command Replay\n<size:10>[Container: packaging: pom]</size>" <<2>> as 2
+  rectangle "==Apache Causeway Ext - Command Replay for Primary\n<size:10>[Container: packaging: jar]</size>" <<3>> as 3
+  rectangle "==Apache Causeway Ext - Command Replay for Secondary\n<size:10>[Container: packaging: jar]</size>" <<4>> as 4
+}
+2 .[#707070].> 3 : ""
+2 .[#707070].> 4 : ""
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 18:12:26 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
