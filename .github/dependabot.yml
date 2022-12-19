@@ -8,6 +8,6 @@ updates:
 
   # Maintain dependencies for GitHub Actions
   - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
+    directory: "/github/dependabot.yml"
+    schedule: "weekly"
       interval: "daily"
